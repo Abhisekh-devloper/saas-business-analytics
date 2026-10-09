@@ -1,0 +1,1201 @@
+Order ID,Order Date,Product Name,Category,Region,Quantity,Revenue,Cost,Profit,Customer Name
+INV-20250001,2026-01-02,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,Echo Interactive Labs
+INV-20250002,2026-05-21,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,80.1,38.0,42.1,Echo Interactive Labs
+INV-20250003,2025-12-12,Dell XPS 15 OLED,Electronics,North America,2,3598.0,2700.0,898.0,Horizon Financial Partners
+INV-20250004,2026-08-09,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,560.0,240.0,320.0,Pinnacle Capital
+INV-20250005,2025-08-18,Moleskine Classic Leather Journal,Office Supplies,Europe,3,72.0,25.5,46.5,Hyperion Energy
+INV-20250006,2025-11-02,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,189.05,130.0,59.05,BluePeak Systems
+INV-20250007,2026-02-14,Logitech MX Master 3S Mouse,Electronics,North America,3,311.85,144.0,167.85,Quantum Innovations Inc
+INV-20250008,2026-04-07,Jarvis Dual-Motor Standing Desk,Office Furniture,Asia Pacific,2,1350.0,1040.0,310.0,Echo Interactive Labs
+INV-20250009,2026-07-02,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,2,758.1,480.0,278.1,Omni Retail Networks
+INV-20250010,2025-09-07,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,2,418.0,190.0,228.0,Quantum Innovations Inc
+INV-20250011,2025-10-05,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,1,359.1,240.0,119.1,Omni Retail Networks
+INV-20250012,2026-02-20,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,1,323.0,150.0,173.0,Starlight Media Group
+INV-20250013,2025-09-20,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Latin America,2,398.0,260.0,138.0,Pinnacle Capital
+INV-20250014,2026-04-08,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,1,294.0,120.0,174.0,Starlight Media Group
+INV-20250015,2026-09-12,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,3,3750.0,2670.0,1080.0,Omni Retail Networks
+INV-20250016,2025-12-30,Dell XPS 15 OLED,Electronics,Asia Pacific,1,1888.95,1350.0,538.95,Nexus Cloud Solutions
+INV-20250017,2026-04-27,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,179.1,130.0,49.1,Pinnacle Capital
+INV-20250018,2026-08-31,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,2,378.1,220.0,158.1,Horizon Financial Partners
+INV-20250019,2026-06-09,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,89.0,38.0,51.0,Synergy Design Co
+INV-20250020,2026-09-05,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,199.0,110.0,89.0,Quantum Innovations Inc
+INV-20250021,2026-07-29,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,199.0,110.0,89.0,Hyperion Energy
+INV-20250022,2026-05-12,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,1,29.4,9.0,20.4,Ironclad Cyber Security
+INV-20250023,2026-07-30,"MacBook Pro M3 Max 16""",Electronics,Asia Pacific,4,9496.2,7400.0,2096.2,Quantum Innovations Inc
+INV-20250024,2026-01-12,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,116.1,60.0,56.1,Quantum Innovations Inc
+INV-20250025,2026-08-18,"MacBook Pro M3 Max 16""",Electronics,Middle East,1,2623.95,1850.0,773.95,Synergy Design Co
+INV-20250026,2025-10-08,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,4,490.2,240.0,250.2,Synergy Design Co
+INV-20250027,2025-11-01,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,340.0,150.0,190.0,Horizon Financial Partners
+INV-20250028,2026-05-13,Premium Merino Wool Blazer,Fashion & Apparel,Middle East,4,1176.0,480.0,696.0,Synergy Design Co
+INV-20250029,2026-02-16,Oak Solid Wood Executive Desk,Office Furniture,Europe,4,5510.0,4200.0,1310.0,Quantum Innovations Inc
+INV-20250030,2026-06-01,Herman Miller Aeron Chair,Office Furniture,North America,5,6250.0,4450.0,1800.0,Synergy Design Co
+INV-20250031,2026-09-08,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,2,178.0,76.0,102.0,Quantum Innovations Inc
+INV-20250032,2025-11-07,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,208.95,110.0,98.95,Summit Ventures Ltd
+INV-20250033,2026-05-18,"High-Grade Whiteboard 48x36""",Office Supplies,Middle East,3,435.0,240.0,195.0,Synergy Design Co
+INV-20250034,2026-07-13,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,208.95,130.0,78.95,Pinnacle Capital
+INV-20250035,2025-09-16,Moleskine Classic Leather Journal,Office Supplies,North America,1,25.2,8.5,16.7,Horizon Financial Partners
+INV-20250036,2025-08-18,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,280.0,120.0,160.0,Horizon Financial Partners
+INV-20250037,2026-01-31,Herman Miller Aeron Chair,Office Furniture,North America,1,1250.0,890.0,360.0,Apex Global Logistics
+INV-20250038,2026-05-18,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,1,787.5,520.0,267.5,Horizon Financial Partners
+INV-20250039,2026-04-14,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,3,660.0,285.0,375.0,Hyperion Energy
+INV-20250040,2026-02-12,Logitech MX Master 3S Mouse,Electronics,North America,1,89.1,48.0,41.1,Nexus Cloud Solutions
+INV-20250041,2026-07-11,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,80.1,38.0,42.1,Pinnacle Capital
+INV-20250042,2025-10-09,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,89.0,38.0,51.0,Omni Retail Networks
+INV-20250043,2025-11-16,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,280.0,120.0,160.0,Nexus Cloud Solutions
+INV-20250044,2026-05-23,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,1,418.95,240.0,178.95,Omni Retail Networks
+INV-20250045,2026-09-04,"MacBook Pro M3 Max 16""",Electronics,Middle East,3,7497.0,5550.0,1947.0,Synergy Design Co
+INV-20250046,2026-03-08,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,4,580.0,320.0,260.0,Horizon Financial Partners
+INV-20250047,2025-12-28,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,4,100.8,36.0,64.8,Nexus Cloud Solutions
+INV-20250048,2026-09-20,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,2,1764.0,1420.0,344.0,Echo Interactive Labs
+INV-20250049,2025-09-13,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,2,417.9,220.0,197.9,Horizon Financial Partners
+INV-20250050,2025-09-09,Dell XPS 15 OLED,Electronics,Asia Pacific,2,3777.9,2700.0,1077.9,Apex Global Logistics
+INV-20250051,2025-09-25,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,3,195.0,156.0,39.0,Summit Ventures Ltd
+INV-20250052,2025-12-13,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,71.4,22.0,49.4,Omni Retail Networks
+INV-20250053,2026-06-28,Herman Miller Aeron Chair,Office Furniture,Europe,1,1312.5,890.0,422.5,Apex Global Logistics
+INV-20250054,2025-12-26,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,209.0,95.0,114.0,Synergy Design Co
+INV-20250055,2026-07-24,Herman Miller Aeron Chair,Office Furniture,North America,2,2250.0,1780.0,470.0,Starlight Media Group
+INV-20250056,2025-09-21,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1522.5,1050.0,472.5,Synergy Design Co
+INV-20250057,2026-05-17,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Middle East,1,209.0,95.0,114.0,Quantum Innovations Inc
+INV-20250058,2025-09-19,Keychron Q1 Pro Mechanical Keyboard,Electronics,Latin America,4,756.2,440.0,316.2,Synergy Design Co
+INV-20250059,2026-05-20,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,2,2058.0,1420.0,638.0,Omni Retail Networks
+INV-20250060,2026-07-22,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,3,741.0,525.0,216.0,Apex Global Logistics
+INV-20250061,2025-10-22,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,85.0,36.0,49.0,Synergy Design Co
+INV-20250062,2026-01-06,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,2,169.1,76.0,93.1,BluePeak Systems
+INV-20250063,2025-12-28,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,2,112.1,48.0,64.1,Omni Retail Networks
+INV-20250064,2026-01-03,Dell XPS 15 OLED,Electronics,North America,1,1709.05,1350.0,359.05,Nexus Cloud Solutions
+INV-20250065,2025-11-05,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,270.9,120.0,150.9,BluePeak Systems
+INV-20250066,2025-10-11,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,199.0,130.0,69.0,Apex Global Logistics
+INV-20250067,2026-06-09,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,504.0,240.0,264.0,Vanguard Health Technologies
+INV-20250068,2026-09-26,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,8,1592.0,880.0,712.0,Vanguard Health Technologies
+INV-20250069,2026-07-22,Mobile 3-Drawer File Cabinet,Office Furniture,North America,1,198.45,135.0,63.45,Horizon Financial Partners
+INV-20250070,2025-11-02,"High-Grade Whiteboard 48x36""",Office Supplies,Middle East,4,580.0,320.0,260.0,Echo Interactive Labs
+INV-20250071,2025-11-13,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Middle East,4,3596.0,2480.0,1116.0,Hyperion Energy
+INV-20250072,2026-09-19,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,5,4495.0,3100.0,1395.0,Vanguard Health Technologies
+INV-20250073,2025-10-09,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,1,750.0,520.0,230.0,Echo Interactive Labs
+INV-20250074,2026-04-07,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,35.0,14.0,21.0,Omni Retail Networks
+INV-20250075,2026-03-07,Herman Miller Aeron Chair,Office Furniture,North America,1,1250.0,890.0,360.0,Horizon Financial Partners
+INV-20250076,2026-05-02,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,1,135.45,60.0,75.45,Pinnacle Capital
+INV-20250077,2025-12-26,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1377.5,1050.0,327.5,Quantum Innovations Inc
+INV-20250078,2026-02-07,Dell XPS 15 OLED,Electronics,North America,2,3418.1,2700.0,718.1,Nexus Cloud Solutions
+INV-20250079,2025-10-13,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,1,152.25,80.0,72.25,Summit Ventures Ltd
+INV-20250080,2026-03-26,Anker 100W USB-C GaN Charger,Electronics,North America,1,61.95,24.0,37.95,Echo Interactive Labs
+INV-20250081,2026-08-27,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,2,161.5,72.0,89.5,Echo Interactive Labs
+INV-20250082,2026-01-31,"High-Grade Whiteboard 48x36""",Office Supplies,North America,2,290.0,160.0,130.0,Pinnacle Capital
+INV-20250083,2026-01-20,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Latin America,2,169.1,76.0,93.1,Summit Ventures Ltd
+INV-20250084,2025-10-19,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,1,25.2,9.0,16.2,Summit Ventures Ltd
+INV-20250085,2026-06-26,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,2,153.0,72.0,81.0,Starlight Media Group
+INV-20250086,2026-01-08,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,1,294.0,120.0,174.0,BluePeak Systems
+INV-20250087,2026-03-29,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,1,68.0,22.0,46.0,Ironclad Cyber Security
+INV-20250088,2026-09-26,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,130.0,104.0,26.0,Synergy Design Co
+INV-20250089,2026-06-28,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,980.0,710.0,270.0,Pinnacle Capital
+INV-20250090,2025-11-24,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,85.0,36.0,49.0,Hyperion Energy
+INV-20250091,2026-09-12,Herman Miller Aeron Chair,Office Furniture,Middle East,1,1125.0,890.0,235.0,Alpha Core Dynamics
+INV-20250092,2026-08-06,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,306.0,150.0,156.0,Echo Interactive Labs
+INV-20250093,2025-08-17,Herman Miller Aeron Chair,Office Furniture,North America,4,5000.0,3560.0,1440.0,Echo Interactive Labs
+INV-20250094,2026-09-30,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,5,677.25,300.0,377.25,Starlight Media Group
+INV-20250095,2025-10-16,Moleskine Classic Leather Journal,Office Supplies,North America,1,21.6,8.5,13.1,Horizon Financial Partners
+INV-20250096,2026-06-15,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,76.5,36.0,40.5,Summit Ventures Ltd
+INV-20250097,2026-04-30,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,1,71.4,22.0,49.4,Synergy Design Co
+INV-20250098,2026-04-15,Moleskine Classic Leather Journal,Office Supplies,Latin America,1,24.0,8.5,15.5,Echo Interactive Labs
+INV-20250099,2026-05-08,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,Hyperion Energy
+INV-20250100,2026-01-08,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,1,712.5,520.0,192.5,Echo Interactive Labs
+INV-20250101,2025-10-24,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1305.0,1050.0,255.0,Quantum Innovations Inc
+INV-20250102,2025-09-16,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,189.05,130.0,59.05,Horizon Financial Partners
+INV-20250103,2025-11-28,Premium Merino Wool Blazer,Fashion & Apparel,Europe,3,756.0,360.0,396.0,Apex Global Logistics
+INV-20250104,2025-08-25,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,3,406.35,180.0,226.35,Echo Interactive Labs
+INV-20250105,2026-01-14,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,3,75.6,27.0,48.6,Vanguard Health Technologies
+INV-20250106,2026-09-28,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,2,560.0,240.0,320.0,Summit Ventures Ltd
+INV-20250107,2026-04-20,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,33.25,14.0,19.25,Nexus Cloud Solutions
+INV-20250108,2026-08-20,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,76.5,36.0,40.5,Nexus Cloud Solutions
+INV-20250109,2025-08-28,Keychron Q1 Pro Mechanical Keyboard,Electronics,Middle East,4,835.8,440.0,395.8,Summit Ventures Ltd
+INV-20250110,2026-07-10,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,198.0,95.0,103.0,Quantum Innovations Inc
+INV-20250111,2026-01-29,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,854.05,620.0,234.05,Nexus Cloud Solutions
+INV-20250112,2026-01-04,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,3,3915.0,3150.0,765.0,Nexus Cloud Solutions
+INV-20250113,2025-08-24,Jarvis Dual-Motor Standing Desk,Office Furniture,Asia Pacific,2,1500.0,1040.0,460.0,Ironclad Cyber Security
+INV-20250114,2026-09-18,Mobile 3-Drawer File Cabinet,Office Furniture,North America,5,945.0,675.0,270.0,Quantum Innovations Inc
+INV-20250115,2025-11-25,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,3,406.35,180.0,226.35,Horizon Financial Partners
+INV-20250116,2026-07-23,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Ironclad Cyber Security
+INV-20250117,2026-02-19,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,1,25.2,8.5,16.7,Hyperion Energy
+INV-20250118,2026-10-08,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Asia Pacific,1,84.55,38.0,46.55,Hyperion Energy
+INV-20250119,2026-01-21,Logitech MX Master 3S Mouse,Electronics,Europe,2,178.2,96.0,82.2,Synergy Design Co
+INV-20250120,2025-09-22,Ergonomic Gel Wrist Rest Pad,Office Supplies,Middle East,2,56.0,18.0,38.0,Horizon Financial Partners
+INV-20250121,2026-07-31,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,2,198.0,96.0,102.0,BluePeak Systems
+INV-20250122,2025-09-05,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,1,234.0,175.0,59.0,Hyperion Energy
+INV-20250123,2026-07-12,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,76.5,36.0,40.5,Summit Ventures Ltd
+INV-20250124,2026-07-06,Heavy-Duty Desktop Stapler,Office Supplies,North America,4,126.0,56.0,70.0,Vanguard Health Technologies
+INV-20250125,2026-08-25,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,2,378.1,260.0,118.1,Starlight Media Group
+INV-20250126,2026-09-15,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,1,61.2,22.0,39.2,Summit Ventures Ltd
+INV-20250127,2025-12-18,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,3,267.0,114.0,153.0,Vanguard Health Technologies
+INV-20250128,2026-09-03,Jarvis Dual-Motor Standing Desk,Office Furniture,Latin America,1,787.5,520.0,267.5,Horizon Financial Partners
+INV-20250129,2026-04-25,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,3,255.0,108.0,147.0,Apex Global Logistics
+INV-20250130,2025-12-25,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,36.75,14.0,22.75,Hyperion Energy
+INV-20250131,2025-08-20,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Latin America,2,398.0,260.0,138.0,Summit Ventures Ltd
+INV-20250132,2026-04-22,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,2,798.0,480.0,318.0,Nexus Cloud Solutions
+INV-20250133,2026-04-23,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,199.0,130.0,69.0,Echo Interactive Labs
+INV-20250134,2026-08-04,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,418.95,240.0,178.95,Nexus Cloud Solutions
+INV-20250135,2026-02-07,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,198.45,135.0,63.45,Summit Ventures Ltd
+INV-20250136,2025-12-31,Oak Solid Wood Executive Desk,Office Furniture,North America,1,1450.0,1050.0,400.0,Ironclad Cyber Security
+INV-20250137,2025-10-15,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,2,198.0,96.0,102.0,Vanguard Health Technologies
+INV-20250138,2026-01-03,Anker 100W USB-C GaN Charger,Electronics,North America,2,123.9,48.0,75.9,Ironclad Cyber Security
+INV-20250139,2025-11-22,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Quantum Innovations Inc
+INV-20250140,2026-05-15,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,899.0,620.0,279.0,Echo Interactive Labs
+INV-20250141,2025-10-18,Dell XPS 15 OLED,Electronics,Europe,2,3238.2,2700.0,538.2,Echo Interactive Labs
+INV-20250142,2026-01-07,Logitech MX Master 3S Mouse,Electronics,Latin America,1,89.1,48.0,41.1,Alpha Core Dynamics
+INV-20250143,2025-12-22,Oak Solid Wood Executive Desk,Office Furniture,North America,5,6525.0,5250.0,1275.0,Apex Global Logistics
+INV-20250144,2026-04-23,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,1,99.0,48.0,51.0,Nexus Cloud Solutions
+INV-20250145,2026-01-17,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Alpha Core Dynamics
+INV-20250146,2026-06-21,Logitech MX Master 3S Mouse,Electronics,Europe,2,207.9,96.0,111.9,Nexus Cloud Solutions
+INV-20250147,2026-04-02,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,4,4750.0,3560.0,1190.0,Nexus Cloud Solutions
+INV-20250148,2026-06-02,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Middle East,2,462.0,190.0,272.0,BluePeak Systems
+INV-20250149,2025-11-29,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,169.1,76.0,93.1,Hyperion Energy
+INV-20250150,2025-11-11,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,2,170.0,72.0,98.0,Horizon Financial Partners
+INV-20250151,2026-06-15,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2499.0,1850.0,649.0,Echo Interactive Labs
+INV-20250152,2026-08-09,Herman Miller Aeron Chair,Office Furniture,North America,3,3750.0,2670.0,1080.0,BluePeak Systems
+INV-20250153,2026-09-22,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,3,267.75,108.0,159.75,BluePeak Systems
+INV-20250154,2026-03-20,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,1,85.0,36.0,49.0,Horizon Financial Partners
+INV-20250155,2025-10-26,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,BluePeak Systems
+INV-20250156,2026-06-02,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,4,936.0,700.0,236.0,Echo Interactive Labs
+INV-20250157,2026-08-08,Logitech MX Master 3S Mouse,Electronics,Europe,1,94.05,48.0,46.05,BluePeak Systems
+INV-20250158,2025-09-25,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,117.0,104.0,13.0,Ironclad Cyber Security
+INV-20250159,2025-08-28,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,93.45,38.0,55.45,BluePeak Systems
+INV-20250160,2026-07-25,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Middle East,3,693.0,285.0,408.0,Hyperion Energy
+INV-20250161,2026-04-12,Dell XPS 15 OLED,Electronics,Asia Pacific,2,3238.2,2700.0,538.2,Starlight Media Group
+INV-20250162,2026-03-26,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,2,1350.0,1040.0,310.0,Alpha Core Dynamics
+INV-20250163,2026-02-01,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,1,399.0,240.0,159.0,Nexus Cloud Solutions
+INV-20250164,2026-04-25,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,809.1,620.0,189.1,Echo Interactive Labs
+INV-20250165,2025-09-29,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,122.55,60.0,62.55,Ironclad Cyber Security
+INV-20250166,2026-05-05,Logitech MX Master 3S Mouse,Electronics,Middle East,3,297.0,144.0,153.0,Nexus Cloud Solutions
+INV-20250167,2026-03-14,Everyday Canvas Laptop Backpack,Fashion & Apparel,Latin America,1,89.25,36.0,53.25,Ironclad Cyber Security
+INV-20250168,2026-07-01,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,189.0,135.0,54.0,Ironclad Cyber Security
+INV-20250169,2026-01-09,Anker 100W USB-C GaN Charger,Electronics,North America,1,53.1,24.0,29.1,Starlight Media Group
+INV-20250170,2026-06-22,Logitech MX Master 3S Mouse,Electronics,North America,3,297.0,144.0,153.0,Pinnacle Capital
+INV-20250171,2026-03-11,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,980.0,710.0,270.0,Summit Ventures Ltd
+INV-20250172,2025-11-01,Moleskine Classic Leather Journal,Office Supplies,Middle East,1,22.8,8.5,14.3,Pinnacle Capital
+INV-20250173,2026-04-19,Recycled Laser Printer Paper (10 Reams),Office Supplies,Asia Pacific,8,520.0,416.0,104.0,Nexus Cloud Solutions
+INV-20250174,2025-11-20,Moleskine Classic Leather Journal,Office Supplies,Europe,4,100.8,34.0,66.8,Nexus Cloud Solutions
+INV-20250175,2025-09-19,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Latin America,1,80.1,38.0,42.1,Omni Retail Networks
+INV-20250176,2025-12-29,Oak Solid Wood Executive Desk,Office Furniture,Latin America,3,4132.5,3150.0,982.5,Summit Ventures Ltd
+INV-20250177,2026-06-07,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,10,801.0,380.0,421.0,Alpha Core Dynamics
+INV-20250178,2026-02-07,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,208.95,110.0,98.95,Ironclad Cyber Security
+INV-20250179,2025-11-19,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,8,224.0,72.0,152.0,Vanguard Health Technologies
+INV-20250180,2026-09-16,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,209.0,95.0,114.0,Omni Retail Networks
+INV-20250181,2026-10-04,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,89.0,38.0,51.0,Synergy Design Co
+INV-20250182,2026-04-29,Heavy-Duty Desktop Stapler,Office Supplies,Middle East,5,166.25,70.0,96.25,Starlight Media Group
+INV-20250183,2025-10-05,Logitech MX Master 3S Mouse,Electronics,Latin America,2,178.2,96.0,82.2,Ironclad Cyber Security
+INV-20250184,2026-07-16,"MacBook Pro M3 Max 16""",Electronics,Asia Pacific,5,12495.0,9250.0,3245.0,Nexus Cloud Solutions
+INV-20250185,2026-02-04,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,2,63.0,28.0,35.0,BluePeak Systems
+INV-20250186,2026-07-26,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,3,918.0,450.0,468.0,Vanguard Health Technologies
+INV-20250187,2026-09-07,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1522.5,1050.0,472.5,Synergy Design Co
+INV-20250188,2026-07-04,Dell XPS 15 OLED,Electronics,Europe,2,3418.1,2700.0,718.1,Horizon Financial Partners
+INV-20250189,2025-10-04,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,3,3750.0,2670.0,1080.0,Nexus Cloud Solutions
+INV-20250190,2025-08-29,Moleskine Classic Leather Journal,Office Supplies,North America,1,24.0,8.5,15.5,BluePeak Systems
+INV-20250191,2025-10-28,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,882.0,710.0,172.0,Nexus Cloud Solutions
+INV-20250192,2025-11-10,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,1,231.0,95.0,136.0,Starlight Media Group
+INV-20250193,2026-04-26,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,4,112.0,36.0,76.0,Horizon Financial Partners
+INV-20250194,2026-04-07,Herman Miller Aeron Chair,Office Furniture,Europe,1,1250.0,890.0,360.0,BluePeak Systems
+INV-20250195,2026-07-27,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,2,520.0,350.0,170.0,BluePeak Systems
+INV-20250196,2026-01-15,Moleskine Classic Leather Journal,Office Supplies,Middle East,2,43.2,17.0,26.2,Alpha Core Dynamics
+INV-20250197,2026-01-16,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,179.1,130.0,49.1,Omni Retail Networks
+INV-20250198,2026-06-03,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,33.25,14.0,19.25,Nexus Cloud Solutions
+INV-20250199,2026-07-18,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,199.0,130.0,69.0,Omni Retail Networks
+INV-20250200,2026-08-31,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Latin America,8,1848.0,760.0,1088.0,Hyperion Energy
+INV-20250201,2026-01-08,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,3,267.0,114.0,153.0,Synergy Design Co
+INV-20250202,2026-07-06,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,1,64.6,22.0,42.6,Horizon Financial Partners
+INV-20250203,2026-07-18,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,2,170.0,72.0,98.0,Hyperion Energy
+INV-20250204,2026-07-11,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,306.0,150.0,156.0,Pinnacle Capital
+INV-20250205,2025-10-21,Dell XPS 15 OLED,Electronics,Europe,1,1709.05,1350.0,359.05,Echo Interactive Labs
+INV-20250206,2025-11-25,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,1,1522.5,1050.0,472.5,Starlight Media Group
+INV-20250207,2026-01-01,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,3,538.65,405.0,133.65,Synergy Design Co
+INV-20250208,2026-09-01,Heavy-Duty Desktop Stapler,Office Supplies,Middle East,4,140.0,56.0,84.0,BluePeak Systems
+INV-20250209,2026-09-05,Moleskine Classic Leather Journal,Office Supplies,Middle East,5,108.0,42.5,65.5,Starlight Media Group
+INV-20250210,2026-09-23,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,1,247.0,175.0,72.0,Quantum Innovations Inc
+INV-20250211,2026-07-25,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,532.0,240.0,292.0,Vanguard Health Technologies
+INV-20250212,2026-02-21,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,220.0,95.0,125.0,Pinnacle Capital
+INV-20250213,2026-05-29,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,36.75,14.0,22.75,Synergy Design Co
+INV-20250214,2026-04-09,Herman Miller Aeron Chair,Office Furniture,Europe,4,4750.0,3560.0,1190.0,Pinnacle Capital
+INV-20250215,2025-09-07,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,5,1615.0,750.0,865.0,Starlight Media Group
+INV-20250216,2026-05-17,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,31.5,14.0,17.5,Horizon Financial Partners
+INV-20250217,2026-08-06,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,5,850.5,675.0,175.5,Echo Interactive Labs
+INV-20250218,2026-03-15,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,2,396.0,190.0,206.0,Starlight Media Group
+INV-20250219,2025-08-31,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,136.0,44.0,92.0,BluePeak Systems
+INV-20250220,2026-02-16,Moleskine Classic Leather Journal,Office Supplies,Europe,1,22.8,8.5,14.3,Horizon Financial Partners
+INV-20250221,2026-02-14,Premium Merino Wool Blazer,Fashion & Apparel,Latin America,1,266.0,120.0,146.0,Pinnacle Capital
+INV-20250222,2026-04-04,Anker 100W USB-C GaN Charger,Electronics,Middle East,1,59.0,24.0,35.0,Omni Retail Networks
+INV-20250223,2025-09-09,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,3,1020.0,450.0,570.0,Apex Global Logistics
+INV-20250224,2025-09-19,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,3,626.85,330.0,296.85,Horizon Financial Partners
+INV-20250225,2025-12-12,Anker 100W USB-C GaN Charger,Electronics,Europe,1,59.0,24.0,35.0,Omni Retail Networks
+INV-20250226,2026-01-03,HEPA Air Purifier Pro Tower,Home & Lifestyle,Latin America,3,780.0,525.0,255.0,Apex Global Logistics
+INV-20250227,2025-11-12,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,199.0,110.0,89.0,Hyperion Energy
+INV-20250228,2026-09-22,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,189.05,110.0,79.05,Hyperion Energy
+INV-20250229,2025-10-18,"MacBook Pro M3 Max 16""",Electronics,North America,2,5247.9,3700.0,1547.9,Apex Global Logistics
+INV-20250230,2026-04-01,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,3,311.85,144.0,167.85,Ironclad Cyber Security
+INV-20250231,2025-12-06,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,5,1100.0,475.0,625.0,Summit Ventures Ltd
+INV-20250232,2026-07-18,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Asia Pacific,2,160.2,76.0,84.2,Omni Retail Networks
+INV-20250233,2026-04-17,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Middle East,3,918.0,450.0,468.0,Apex Global Logistics
+INV-20250234,2026-03-30,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,85.0,36.0,49.0,Echo Interactive Labs
+INV-20250235,2025-10-18,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1522.5,1050.0,472.5,Quantum Innovations Inc
+INV-20250236,2026-06-16,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,2,504.0,240.0,264.0,Nexus Cloud Solutions
+INV-20250237,2026-09-25,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,136.5,104.0,32.5,Quantum Innovations Inc
+INV-20250238,2026-04-03,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Latin America,4,320.4,152.0,168.4,Nexus Cloud Solutions
+INV-20250239,2026-03-15,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,2,2755.0,2100.0,655.0,Nexus Cloud Solutions
+INV-20250240,2026-02-22,"High-Grade Whiteboard 48x36""",Office Supplies,North America,5,652.5,400.0,252.5,BluePeak Systems
+INV-20250241,2025-10-01,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,379.05,240.0,139.05,Quantum Innovations Inc
+INV-20250242,2026-06-11,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,5,1365.0,875.0,490.0,Apex Global Logistics
+INV-20250243,2026-02-12,Oak Solid Wood Executive Desk,Office Furniture,Europe,4,5220.0,4200.0,1020.0,Nexus Cloud Solutions
+INV-20250244,2026-06-18,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,89.0,38.0,51.0,BluePeak Systems
+INV-20250245,2026-07-17,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,220.0,95.0,125.0,Starlight Media Group
+INV-20250246,2025-10-12,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,3,595.35,405.0,190.35,Vanguard Health Technologies
+INV-20250247,2026-05-29,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,8,10500.0,7120.0,3380.0,Omni Retail Networks
+INV-20250248,2025-08-28,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,129.2,44.0,85.2,Summit Ventures Ltd
+INV-20250249,2026-09-09,"MacBook Pro M3 Max 16""",Electronics,North America,1,2374.05,1850.0,524.05,Echo Interactive Labs
+INV-20250250,2025-10-27,Mobile 3-Drawer File Cabinet,Office Furniture,North America,2,340.2,270.0,70.2,Omni Retail Networks
+INV-20250251,2025-08-30,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,418.95,240.0,178.95,Pinnacle Capital
+INV-20250252,2026-02-05,Anker 100W USB-C GaN Charger,Electronics,North America,1,56.05,24.0,32.05,Ironclad Cyber Security
+INV-20250253,2026-06-16,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,89.0,38.0,51.0,Alpha Core Dynamics
+INV-20250254,2025-09-09,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,2,378.1,220.0,158.1,Alpha Core Dynamics
+INV-20250255,2026-06-21,Moleskine Classic Leather Journal,Office Supplies,Europe,1,22.8,8.5,14.3,Ironclad Cyber Security
+INV-20250256,2026-02-07,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,1,56.05,24.0,32.05,Quantum Innovations Inc
+INV-20250257,2026-05-11,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,2,170.0,72.0,98.0,Ironclad Cyber Security
+INV-20250258,2025-09-12,Herman Miller Aeron Chair,Office Furniture,North America,1,1187.5,890.0,297.5,Alpha Core Dynamics
+INV-20250259,2025-12-23,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,1,59.0,24.0,35.0,Hyperion Energy
+INV-20250260,2025-11-12,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2623.95,1850.0,773.95,Nexus Cloud Solutions
+INV-20250261,2026-07-23,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,3,597.0,390.0,207.0,Summit Ventures Ltd
+INV-20250262,2026-03-26,Ergonomic Gel Wrist Rest Pad,Office Supplies,Latin America,1,28.0,9.0,19.0,Apex Global Logistics
+INV-20250263,2026-03-10,Oak Solid Wood Executive Desk,Office Furniture,Europe,2,2610.0,2100.0,510.0,Alpha Core Dynamics
+INV-20250264,2026-01-28,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,1029.0,710.0,319.0,Apex Global Logistics
+INV-20250265,2026-02-16,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,1,24.0,8.5,15.5,Synergy Design Co
+INV-20250266,2026-05-10,Herman Miller Aeron Chair,Office Furniture,Europe,1,1187.5,890.0,297.5,Nexus Cloud Solutions
+INV-20250267,2026-09-17,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,93.45,38.0,55.45,Vanguard Health Technologies
+INV-20250268,2025-11-22,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,4,1292.0,600.0,692.0,Summit Ventures Ltd
+INV-20250269,2026-07-11,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,3,567.0,405.0,162.0,Omni Retail Networks
+INV-20250270,2025-11-11,Logitech MX Master 3S Mouse,Electronics,North America,2,198.0,96.0,102.0,Horizon Financial Partners
+INV-20250271,2026-04-24,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Middle East,1,943.95,620.0,323.95,Pinnacle Capital
+INV-20250272,2026-05-31,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,2,270.9,120.0,150.9,Pinnacle Capital
+INV-20250273,2026-01-23,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1450.0,1050.0,400.0,Pinnacle Capital
+INV-20250274,2026-09-26,Heavy-Duty Desktop Stapler,Office Supplies,Europe,1,35.0,14.0,21.0,BluePeak Systems
+INV-20250275,2026-04-08,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,189.0,135.0,54.0,BluePeak Systems
+INV-20250276,2026-07-11,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,3,567.0,405.0,162.0,Quantum Innovations Inc
+INV-20250277,2026-04-08,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,136.0,44.0,92.0,Nexus Cloud Solutions
+INV-20250278,2026-07-14,Moleskine Classic Leather Journal,Office Supplies,Latin America,1,25.2,8.5,16.7,Alpha Core Dynamics
+INV-20250279,2026-04-02,Heavy-Duty Desktop Stapler,Office Supplies,Europe,1,33.25,14.0,19.25,Apex Global Logistics
+INV-20250280,2025-11-11,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,179.1,130.0,49.1,Pinnacle Capital
+INV-20250281,2025-11-04,Moleskine Classic Leather Journal,Office Supplies,Europe,1,22.8,8.5,14.3,Alpha Core Dynamics
+INV-20250282,2026-07-28,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,2,53.2,18.0,35.2,Vanguard Health Technologies
+INV-20250283,2026-07-28,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,379.05,240.0,139.05,Summit Ventures Ltd
+INV-20250284,2026-06-19,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Asia Pacific,4,338.2,152.0,186.2,Synergy Design Co
+INV-20250285,2026-02-10,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,1,359.1,240.0,119.1,Starlight Media Group
+INV-20250286,2026-01-20,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,2,378.1,220.0,158.1,Quantum Innovations Inc
+INV-20250287,2026-08-28,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,10,2089.5,1100.0,989.5,Omni Retail Networks
+INV-20250288,2026-05-02,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,1,379.05,240.0,139.05,Nexus Cloud Solutions
+INV-20250289,2026-02-05,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,5,4410.0,3550.0,860.0,Horizon Financial Partners
+INV-20250290,2025-11-02,Anker 100W USB-C GaN Charger,Electronics,North America,1,59.0,24.0,35.0,Starlight Media Group
+INV-20250291,2026-08-28,Recycled Laser Printer Paper (10 Reams),Office Supplies,Asia Pacific,4,260.0,208.0,52.0,Omni Retail Networks
+INV-20250292,2026-06-27,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,76.5,36.0,40.5,Hyperion Energy
+INV-20250293,2026-08-04,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,3,597.0,330.0,267.0,Omni Retail Networks
+INV-20250294,2026-02-17,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,2,178.0,76.0,102.0,Nexus Cloud Solutions
+INV-20250295,2026-09-02,Moleskine Classic Leather Journal,Office Supplies,Europe,3,72.0,25.5,46.5,Hyperion Energy
+INV-20250296,2026-09-20,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,280.0,120.0,160.0,Hyperion Energy
+INV-20250297,2026-03-28,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,179.55,135.0,44.55,Alpha Core Dynamics
+INV-20250298,2026-03-17,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,5,645.0,300.0,345.0,Summit Ventures Ltd
+INV-20250299,2025-12-21,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,1,234.0,175.0,59.0,Omni Retail Networks
+INV-20250300,2026-08-14,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,3,567.0,405.0,162.0,Quantum Innovations Inc
+INV-20250301,2026-01-01,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,1029.0,710.0,319.0,Starlight Media Group
+INV-20250302,2025-12-06,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,3,567.15,330.0,237.15,Quantum Innovations Inc
+INV-20250303,2026-04-29,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2249.1,1850.0,399.1,Nexus Cloud Solutions
+INV-20250304,2026-01-25,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,5,1895.25,1200.0,695.25,Apex Global Logistics
+INV-20250305,2026-01-08,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,4,936.0,700.0,236.0,Apex Global Logistics
+INV-20250306,2026-08-11,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,1,208.95,130.0,78.95,Hyperion Energy
+INV-20250307,2025-12-24,"MacBook Pro M3 Max 16""",Electronics,Latin America,1,2499.0,1850.0,649.0,Apex Global Logistics
+INV-20250308,2026-05-12,Premium Merino Wool Blazer,Fashion & Apparel,Middle East,1,266.0,120.0,146.0,Alpha Core Dynamics
+INV-20250309,2025-12-15,Herman Miller Aeron Chair,Office Furniture,North America,1,1312.5,890.0,422.5,Apex Global Logistics
+INV-20250310,2026-04-27,Moleskine Classic Leather Journal,Office Supplies,North America,2,48.0,17.0,31.0,Omni Retail Networks
+INV-20250311,2026-08-17,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,306.0,150.0,156.0,Horizon Financial Partners
+INV-20250312,2026-06-03,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2499.0,1850.0,649.0,Horizon Financial Partners
+INV-20250313,2026-05-11,Recycled Laser Printer Paper (10 Reams),Office Supplies,Middle East,2,136.5,104.0,32.5,Quantum Innovations Inc
+INV-20250314,2026-04-12,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,252.0,120.0,132.0,Omni Retail Networks
+INV-20250315,2026-02-13,Mobile 3-Drawer File Cabinet,Office Furniture,North America,3,538.65,405.0,133.65,Apex Global Logistics
+INV-20250316,2025-10-07,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,3,3562.5,2670.0,892.5,Pinnacle Capital
+INV-20250317,2026-02-04,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,3,597.0,330.0,267.0,Summit Ventures Ltd
+INV-20250318,2026-04-17,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,2,258.0,120.0,138.0,Echo Interactive Labs
+INV-20250319,2025-09-02,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,1,399.0,240.0,159.0,Ironclad Cyber Security
+INV-20250320,2026-01-23,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,5,1365.0,875.0,490.0,Apex Global Logistics
+INV-20250321,2026-04-14,Ergonomic Gel Wrist Rest Pad,Office Supplies,Middle East,1,28.0,9.0,19.0,Summit Ventures Ltd
+INV-20250322,2025-09-08,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,3,2793.0,2130.0,663.0,Hyperion Energy
+INV-20250323,2026-03-26,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,4,2700.0,2080.0,620.0,Vanguard Health Technologies
+INV-20250324,2026-04-26,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,2,53.2,18.0,35.2,Starlight Media Group
+INV-20250325,2025-09-26,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,2,520.0,350.0,170.0,Hyperion Energy
+INV-20250326,2025-11-15,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,2,275.5,160.0,115.5,Omni Retail Networks
+INV-20250327,2026-01-13,Logitech MX Master 3S Mouse,Electronics,North America,1,103.95,48.0,55.95,Pinnacle Capital
+INV-20250328,2026-03-30,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,199.0,130.0,69.0,Echo Interactive Labs
+INV-20250329,2026-06-25,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Latin America,10,845.5,380.0,465.5,Vanguard Health Technologies
+INV-20250330,2025-09-22,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Middle East,2,612.0,300.0,312.0,Apex Global Logistics
+INV-20250331,2026-07-28,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,189.0,135.0,54.0,Echo Interactive Labs
+INV-20250332,2026-09-19,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,1,199.0,110.0,89.0,Pinnacle Capital
+INV-20250333,2026-02-18,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,418.95,240.0,178.95,Pinnacle Capital
+INV-20250334,2026-04-02,Dell XPS 15 OLED,Electronics,Europe,5,8545.25,6750.0,1795.25,Pinnacle Capital
+INV-20250335,2025-10-24,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,2,43.2,17.0,26.2,Alpha Core Dynamics
+INV-20250336,2025-10-12,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1450.0,1050.0,400.0,Horizon Financial Partners
+INV-20250337,2026-05-29,Heavy-Duty Desktop Stapler,Office Supplies,Europe,1,33.25,14.0,19.25,Synergy Design Co
+INV-20250338,2026-01-08,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,2,358.2,260.0,98.2,Alpha Core Dynamics
+INV-20250339,2025-09-21,Anker 100W USB-C GaN Charger,Electronics,North America,1,53.1,24.0,29.1,Omni Retail Networks
+INV-20250340,2026-01-25,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,2,798.0,480.0,318.0,Omni Retail Networks
+INV-20250341,2026-01-15,Premium Merino Wool Blazer,Fashion & Apparel,Europe,3,840.0,360.0,480.0,Synergy Design Co
+INV-20250342,2025-10-16,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,8,2080.0,1400.0,680.0,Horizon Financial Partners
+INV-20250343,2026-02-15,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,2,2375.0,1780.0,595.0,Apex Global Logistics
+INV-20250344,2025-10-20,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,2,48.0,17.0,31.0,Summit Ventures Ltd
+INV-20250345,2026-08-18,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,359.1,240.0,119.1,Echo Interactive Labs
+INV-20250346,2025-09-21,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,122.55,60.0,62.55,Alpha Core Dynamics
+INV-20250347,2026-07-29,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,2,680.0,300.0,380.0,Ironclad Cyber Security
+INV-20250348,2025-11-16,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,3,387.0,180.0,207.0,Alpha Core Dynamics
+INV-20250349,2025-09-12,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,3,456.75,240.0,216.75,Omni Retail Networks
+INV-20250350,2026-01-27,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,5,995.0,550.0,445.0,Starlight Media Group
+INV-20250351,2026-01-07,Mobile 3-Drawer File Cabinet,Office Furniture,Middle East,3,538.65,405.0,133.65,Summit Ventures Ltd
+INV-20250352,2026-01-02,Anker 100W USB-C GaN Charger,Electronics,Europe,1,56.05,24.0,32.05,Summit Ventures Ltd
+INV-20250353,2026-07-09,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,1,71.4,22.0,49.4,Summit Ventures Ltd
+INV-20250354,2026-08-18,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,4,756.2,440.0,316.2,Alpha Core Dynamics
+INV-20250355,2025-08-29,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,231.0,95.0,136.0,Omni Retail Networks
+INV-20250356,2026-06-03,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,1,750.0,520.0,230.0,Hyperion Energy
+INV-20250357,2026-01-10,Heavy-Duty Desktop Stapler,Office Supplies,Latin America,2,66.5,28.0,38.5,Summit Ventures Ltd
+INV-20250358,2026-07-31,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,31.5,14.0,17.5,Hyperion Energy
+INV-20250359,2026-03-28,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,1,359.1,240.0,119.1,Starlight Media Group
+INV-20250360,2026-01-22,Anker 100W USB-C GaN Charger,Electronics,North America,3,168.15,72.0,96.15,Starlight Media Group
+INV-20250361,2026-03-07,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Middle East,1,84.55,38.0,46.55,Vanguard Health Technologies
+INV-20250362,2025-12-16,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,61.75,52.0,9.75,Vanguard Health Technologies
+INV-20250363,2025-09-09,Moleskine Classic Leather Journal,Office Supplies,North America,1,21.6,8.5,13.1,Quantum Innovations Inc
+INV-20250364,2025-11-04,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,3,214.2,66.0,148.2,Omni Retail Networks
+INV-20250365,2025-11-04,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,93.45,38.0,55.45,Hyperion Energy
+INV-20250366,2026-04-26,Moleskine Classic Leather Journal,Office Supplies,Europe,1,21.6,8.5,13.1,BluePeak Systems
+INV-20250367,2025-12-03,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,130.0,104.0,26.0,Horizon Financial Partners
+INV-20250368,2026-07-15,Dell XPS 15 OLED,Electronics,North America,2,3418.1,2700.0,718.1,Alpha Core Dynamics
+INV-20250369,2026-03-23,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,266.0,120.0,146.0,Quantum Innovations Inc
+INV-20250370,2026-02-18,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,89.0,38.0,51.0,Nexus Cloud Solutions
+INV-20250371,2026-05-25,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,198.0,95.0,103.0,Vanguard Health Technologies
+INV-20250372,2026-01-05,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,3,204.75,156.0,48.75,Summit Ventures Ltd
+INV-20250373,2025-10-03,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,80.75,36.0,44.75,Starlight Media Group
+INV-20250374,2025-10-27,Premium Merino Wool Blazer,Fashion & Apparel,Latin America,1,294.0,120.0,174.0,Hyperion Energy
+INV-20250375,2025-09-03,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,1,26.6,9.0,17.6,Apex Global Logistics
+INV-20250376,2025-10-30,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,2,546.0,350.0,196.0,Ironclad Cyber Security
+INV-20250377,2026-01-25,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,208.95,110.0,98.95,Alpha Core Dynamics
+INV-20250378,2026-02-03,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Asia Pacific,2,186.9,76.0,110.9,Alpha Core Dynamics
+INV-20250379,2026-01-15,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,280.0,120.0,160.0,Alpha Core Dynamics
+INV-20250380,2026-03-16,Mobile 3-Drawer File Cabinet,Office Furniture,North America,2,378.0,270.0,108.0,Quantum Innovations Inc
+INV-20250381,2026-09-19,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,8,571.2,176.0,395.2,Pinnacle Capital
+INV-20250382,2026-06-09,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,231.0,95.0,136.0,Apex Global Logistics
+INV-20250383,2026-02-25,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,1,340.0,150.0,190.0,Hyperion Energy
+INV-20250384,2025-10-10,Dell XPS 15 OLED,Electronics,Europe,1,1619.1,1350.0,269.1,Echo Interactive Labs
+INV-20250385,2026-08-03,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1522.5,1050.0,472.5,Nexus Cloud Solutions
+INV-20250386,2026-08-26,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,2,258.0,120.0,138.0,Ironclad Cyber Security
+INV-20250387,2026-07-20,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,58.5,52.0,6.5,Vanguard Health Technologies
+INV-20250388,2026-05-14,Oak Solid Wood Executive Desk,Office Furniture,Middle East,1,1377.5,1050.0,327.5,Ironclad Cyber Security
+INV-20250389,2026-07-29,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,2,161.5,72.0,89.5,Echo Interactive Labs
+INV-20250390,2026-01-04,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,136.0,44.0,92.0,Horizon Financial Partners
+INV-20250391,2025-11-29,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,2,1764.0,1420.0,344.0,Echo Interactive Labs
+INV-20250392,2026-09-26,Oak Solid Wood Executive Desk,Office Furniture,Europe,2,2755.0,2100.0,655.0,Summit Ventures Ltd
+INV-20250393,2026-02-25,Logitech MX Master 3S Mouse,Electronics,Europe,4,356.4,192.0,164.4,Summit Ventures Ltd
+INV-20250394,2025-10-28,Mobile 3-Drawer File Cabinet,Office Furniture,Middle East,1,179.55,135.0,44.55,Hyperion Energy
+INV-20250395,2026-03-29,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,2,358.2,260.0,98.2,Synergy Design Co
+INV-20250396,2025-12-31,Anker 100W USB-C GaN Charger,Electronics,North America,5,280.25,120.0,160.25,Summit Ventures Ltd
+INV-20250397,2026-06-11,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Echo Interactive Labs
+INV-20250398,2026-07-07,Everyday Canvas Laptop Backpack,Fashion & Apparel,Latin America,1,85.0,36.0,49.0,Horizon Financial Partners
+INV-20250399,2025-10-05,"High-Grade Whiteboard 48x36""",Office Supplies,North America,2,290.0,160.0,130.0,Ironclad Cyber Security
+INV-20250400,2025-11-03,"MacBook Pro M3 Max 16""",Electronics,Middle East,1,2249.1,1850.0,399.1,Synergy Design Co
+INV-20250401,2026-01-09,Heavy-Duty Desktop Stapler,Office Supplies,Europe,1,35.0,14.0,21.0,Hyperion Energy
+INV-20250402,2025-12-11,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,258.0,120.0,138.0,Alpha Core Dynamics
+INV-20250403,2025-11-13,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,5,4495.0,3100.0,1395.0,Omni Retail Networks
+INV-20250404,2026-09-02,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,5,133.0,45.0,88.0,Starlight Media Group
+INV-20250405,2026-06-19,Dell XPS 15 OLED,Electronics,North America,1,1709.05,1350.0,359.05,Alpha Core Dynamics
+INV-20250406,2026-05-20,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,2,1960.0,1420.0,540.0,Pinnacle Capital
+INV-20250407,2026-10-03,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,65.0,52.0,13.0,Horizon Financial Partners
+INV-20250408,2026-08-17,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,84.55,38.0,46.55,BluePeak Systems
+INV-20250409,2026-09-06,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,1,273.0,175.0,98.0,Pinnacle Capital
+INV-20250410,2026-03-21,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Latin America,2,680.0,300.0,380.0,Omni Retail Networks
+INV-20250411,2025-10-25,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,1,28.0,9.0,19.0,Starlight Media Group
+INV-20250412,2026-03-31,"MacBook Pro M3 Max 16""",Electronics,North America,3,7122.15,5550.0,1572.15,Horizon Financial Partners
+INV-20250413,2025-08-20,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,931.0,710.0,221.0,Alpha Core Dynamics
+INV-20250414,2025-10-14,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,199.0,130.0,69.0,Pinnacle Capital
+INV-20250415,2026-08-10,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,3,84.0,27.0,57.0,Synergy Design Co
+INV-20250416,2026-02-19,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Latin America,2,680.0,300.0,380.0,BluePeak Systems
+INV-20250417,2026-09-01,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,8,1512.4,880.0,632.4,Ironclad Cyber Security
+INV-20250418,2026-04-13,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,3,435.0,240.0,195.0,Synergy Design Co
+INV-20250419,2026-06-16,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,4,516.0,240.0,276.0,Hyperion Energy
+INV-20250420,2026-02-16,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,68.25,52.0,16.25,Echo Interactive Labs
+INV-20250421,2026-04-30,Logitech MX Master 3S Mouse,Electronics,North America,1,103.95,48.0,55.95,Summit Ventures Ltd
+INV-20250422,2026-05-08,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Omni Retail Networks
+INV-20250423,2026-05-03,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,199.0,130.0,69.0,Quantum Innovations Inc
+INV-20250424,2026-04-05,Moleskine Classic Leather Journal,Office Supplies,North America,2,50.4,17.0,33.4,Nexus Cloud Solutions
+INV-20250425,2026-08-20,Moleskine Classic Leather Journal,Office Supplies,Europe,1,22.8,8.5,14.3,BluePeak Systems
+INV-20250426,2025-09-21,"MacBook Pro M3 Max 16""",Electronics,Asia Pacific,1,2374.05,1850.0,524.05,Alpha Core Dynamics
+INV-20250427,2025-09-19,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,8,1432.8,1040.0,392.8,Apex Global Logistics
+INV-20250428,2026-09-12,Dell XPS 15 OLED,Electronics,North America,1,1619.1,1350.0,269.1,Starlight Media Group
+INV-20250429,2026-04-01,Mobile 3-Drawer File Cabinet,Office Furniture,Middle East,3,510.3,405.0,105.3,Nexus Cloud Solutions
+INV-20250430,2026-05-18,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,1,26.6,9.0,17.6,Pinnacle Capital
+INV-20250431,2026-03-04,Logitech MX Master 3S Mouse,Electronics,North America,2,198.0,96.0,102.0,Summit Ventures Ltd
+INV-20250432,2026-04-09,"MacBook Pro M3 Max 16""",Electronics,Asia Pacific,2,5247.9,3700.0,1547.9,BluePeak Systems
+INV-20250433,2025-12-10,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,1,137.75,80.0,57.75,Omni Retail Networks
+INV-20250434,2026-08-21,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,3,597.0,330.0,267.0,Synergy Design Co
+INV-20250435,2026-09-11,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,5,1300.0,875.0,425.0,Alpha Core Dynamics
+INV-20250436,2026-06-15,Herman Miller Aeron Chair,Office Furniture,North America,1,1312.5,890.0,422.5,Quantum Innovations Inc
+INV-20250437,2025-12-18,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,2,153.0,72.0,81.0,Apex Global Logistics
+INV-20250438,2026-09-05,Moleskine Classic Leather Journal,Office Supplies,North America,3,72.0,25.5,46.5,Horizon Financial Partners
+INV-20250439,2025-12-12,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,3,626.85,330.0,296.85,BluePeak Systems
+INV-20250440,2026-07-25,Oak Solid Wood Executive Desk,Office Furniture,Europe,3,4350.0,3150.0,1200.0,Hyperion Energy
+INV-20250441,2026-05-08,Steelcase Gesture Ergonomic Stool,Office Furniture,Latin America,1,931.0,710.0,221.0,Pinnacle Capital
+INV-20250442,2026-08-26,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,4,2700.0,2080.0,620.0,Alpha Core Dynamics
+INV-20250443,2026-07-10,Premium Merino Wool Blazer,Fashion & Apparel,Europe,2,588.0,240.0,348.0,Vanguard Health Technologies
+INV-20250444,2025-10-30,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,1,1450.0,1050.0,400.0,Nexus Cloud Solutions
+INV-20250445,2025-12-08,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,129.0,60.0,69.0,Horizon Financial Partners
+INV-20250446,2026-05-29,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,1,234.0,175.0,59.0,Apex Global Logistics
+INV-20250447,2025-12-17,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,266.0,120.0,146.0,Nexus Cloud Solutions
+INV-20250448,2026-02-20,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,Ironclad Cyber Security
+INV-20250449,2026-06-20,Dell XPS 15 OLED,Electronics,North America,2,3598.0,2700.0,898.0,Pinnacle Capital
+INV-20250450,2026-08-20,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,2,118.0,48.0,70.0,Alpha Core Dynamics
+INV-20250451,2026-02-01,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,35.0,14.0,21.0,Synergy Design Co
+INV-20250452,2025-10-14,Anker 100W USB-C GaN Charger,Electronics,Latin America,2,106.2,48.0,58.2,Echo Interactive Labs
+INV-20250453,2025-11-27,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,1,1250.0,890.0,360.0,Echo Interactive Labs
+INV-20250454,2026-02-25,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,266.0,120.0,146.0,BluePeak Systems
+INV-20250455,2026-04-26,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,882.0,710.0,172.0,Summit Ventures Ltd
+INV-20250456,2025-11-27,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,116.1,60.0,56.1,Synergy Design Co
+INV-20250457,2026-08-29,Dell XPS 15 OLED,Electronics,Europe,1,1709.05,1350.0,359.05,Horizon Financial Partners
+INV-20250458,2026-08-18,Premium Merino Wool Blazer,Fashion & Apparel,Latin America,1,280.0,120.0,160.0,Alpha Core Dynamics
+INV-20250459,2026-06-02,Anker 100W USB-C GaN Charger,Electronics,North America,3,159.3,72.0,87.3,Nexus Cloud Solutions
+INV-20250460,2026-02-03,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,252.0,120.0,132.0,Pinnacle Capital
+INV-20250461,2026-04-07,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,84.55,38.0,46.55,Ironclad Cyber Security
+INV-20250462,2026-04-22,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,943.95,620.0,323.95,Summit Ventures Ltd
+INV-20250463,2025-09-01,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Middle East,3,1020.0,450.0,570.0,Summit Ventures Ltd
+INV-20250464,2026-03-14,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,85.0,36.0,49.0,Apex Global Logistics
+INV-20250465,2025-12-04,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,2,758.1,480.0,278.1,Apex Global Logistics
+INV-20250466,2026-06-26,Dell XPS 15 OLED,Electronics,Europe,4,6476.4,5400.0,1076.4,Pinnacle Capital
+INV-20250467,2026-03-13,"MacBook Pro M3 Max 16""",Electronics,North America,1,2623.95,1850.0,773.95,Summit Ventures Ltd
+INV-20250468,2025-08-23,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,160.2,76.0,84.2,BluePeak Systems
+INV-20250469,2025-10-08,HEPA Air Purifier Pro Tower,Home & Lifestyle,Latin America,4,1092.0,700.0,392.0,Starlight Media Group
+INV-20250470,2026-05-11,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,189.05,110.0,79.05,Alpha Core Dynamics
+INV-20250471,2026-02-22,Jarvis Dual-Motor Standing Desk,Office Furniture,Asia Pacific,5,3375.0,2600.0,775.0,Quantum Innovations Inc
+INV-20250472,2025-12-08,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,220.0,95.0,125.0,Echo Interactive Labs
+INV-20250473,2026-09-07,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Middle East,1,306.0,150.0,156.0,Pinnacle Capital
+INV-20250474,2025-09-12,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,2,56.0,18.0,38.0,Ironclad Cyber Security
+INV-20250475,2026-07-11,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,3,1256.85,720.0,536.85,Nexus Cloud Solutions
+INV-20250476,2025-09-05,Logitech MX Master 3S Mouse,Electronics,Latin America,1,103.95,48.0,55.95,Synergy Design Co
+INV-20250477,2025-09-22,Heavy-Duty Desktop Stapler,Office Supplies,North America,2,66.5,28.0,38.5,Synergy Design Co
+INV-20250478,2025-11-14,Premium Merino Wool Blazer,Fashion & Apparel,Europe,4,1064.0,480.0,584.0,Apex Global Logistics
+INV-20250479,2025-10-27,"MacBook Pro M3 Max 16""",Electronics,Middle East,3,6747.3,5550.0,1197.3,Alpha Core Dynamics
+INV-20250480,2025-12-16,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,2,718.2,480.0,238.2,Alpha Core Dynamics
+INV-20250481,2026-02-27,Everyday Canvas Laptop Backpack,Fashion & Apparel,Latin America,3,255.0,108.0,147.0,Vanguard Health Technologies
+INV-20250482,2025-09-24,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,2,494.0,350.0,144.0,Echo Interactive Labs
+INV-20250483,2025-09-22,Dell XPS 15 OLED,Electronics,North America,1,1888.95,1350.0,538.95,Horizon Financial Partners
+INV-20250484,2026-01-29,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Hyperion Energy
+INV-20250485,2025-12-09,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,1,234.0,175.0,59.0,Ironclad Cyber Security
+INV-20250486,2026-07-19,"High-Grade Whiteboard 48x36""",Office Supplies,North America,1,152.25,80.0,72.25,Alpha Core Dynamics
+INV-20250487,2025-09-21,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,1,980.0,710.0,270.0,Echo Interactive Labs
+INV-20250488,2025-11-01,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,2,53.2,18.0,35.2,Pinnacle Capital
+INV-20250489,2026-01-19,Mobile 3-Drawer File Cabinet,Office Furniture,North America,1,179.55,135.0,44.55,Apex Global Logistics
+INV-20250490,2026-03-23,Logitech MX Master 3S Mouse,Electronics,North America,1,103.95,48.0,55.95,Starlight Media Group
+INV-20250491,2025-09-29,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,65.0,52.0,13.0,Apex Global Logistics
+INV-20250492,2026-02-28,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,1,61.2,22.0,39.2,Vanguard Health Technologies
+INV-20250493,2026-05-28,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,4,112.0,36.0,76.0,Echo Interactive Labs
+INV-20250494,2026-02-25,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,209.0,95.0,114.0,Pinnacle Capital
+INV-20250495,2025-09-16,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,931.0,710.0,221.0,Starlight Media Group
+INV-20250496,2025-09-23,"High-Grade Whiteboard 48x36""",Office Supplies,North America,1,145.0,80.0,65.0,Hyperion Energy
+INV-20250497,2026-06-26,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,89.0,38.0,51.0,Alpha Core Dynamics
+INV-20250498,2026-02-01,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,3,537.3,330.0,207.3,Nexus Cloud Solutions
+INV-20250499,2026-02-02,HEPA Air Purifier Pro Tower,Home & Lifestyle,Latin America,1,273.0,175.0,98.0,Ironclad Cyber Security
+INV-20250500,2026-08-05,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,189.05,110.0,79.05,Alpha Core Dynamics
+INV-20250501,2026-01-11,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Middle East,2,1618.2,1240.0,378.2,Vanguard Health Technologies
+INV-20250502,2026-02-23,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,1,198.0,95.0,103.0,Vanguard Health Technologies
+INV-20250503,2025-11-25,Mobile 3-Drawer File Cabinet,Office Furniture,North America,2,396.9,270.0,126.9,Alpha Core Dynamics
+INV-20250504,2025-08-28,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,5,4045.5,3100.0,945.5,Summit Ventures Ltd
+INV-20250505,2026-01-11,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,3,597.0,390.0,207.0,Hyperion Energy
+INV-20250506,2026-04-27,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,1,247.0,175.0,72.0,Pinnacle Capital
+INV-20250507,2026-08-16,Herman Miller Aeron Chair,Office Furniture,North America,1,1125.0,890.0,235.0,Starlight Media Group
+INV-20250508,2026-04-17,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,2,837.9,480.0,357.9,Alpha Core Dynamics
+INV-20250509,2026-08-04,Recycled Laser Printer Paper (10 Reams),Office Supplies,Latin America,1,65.0,52.0,13.0,Omni Retail Networks
+INV-20250510,2026-10-04,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,2,520.0,350.0,170.0,Echo Interactive Labs
+INV-20250511,2026-07-21,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,1,103.95,48.0,55.95,Pinnacle Capital
+INV-20250512,2026-07-27,Dell XPS 15 OLED,Electronics,Europe,2,3418.1,2700.0,718.1,Pinnacle Capital
+INV-20250513,2025-10-04,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,1,273.0,175.0,98.0,Apex Global Logistics
+INV-20250514,2026-08-02,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,2,160.2,76.0,84.2,Alpha Core Dynamics
+INV-20250515,2026-07-28,Mobile 3-Drawer File Cabinet,Office Furniture,North America,2,396.9,270.0,126.9,Hyperion Energy
+INV-20250516,2026-04-19,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,179.1,110.0,69.1,Apex Global Logistics
+INV-20250517,2025-10-26,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,379.05,240.0,139.05,Echo Interactive Labs
+INV-20250518,2026-04-19,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,1,24.0,8.5,15.5,Summit Ventures Ltd
+INV-20250519,2026-01-25,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,1,24.0,8.5,15.5,Ironclad Cyber Security
+INV-20250520,2026-02-06,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,2,520.0,350.0,170.0,Apex Global Logistics
+INV-20250521,2026-05-24,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,93.45,38.0,55.45,Starlight Media Group
+INV-20250522,2026-09-27,"High-Grade Whiteboard 48x36""",Office Supplies,Middle East,1,145.0,80.0,65.0,Horizon Financial Partners
+INV-20250523,2026-03-05,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,1,943.95,620.0,323.95,Nexus Cloud Solutions
+INV-20250524,2026-03-02,Anker 100W USB-C GaN Charger,Electronics,Europe,1,59.0,24.0,35.0,Nexus Cloud Solutions
+INV-20250525,2026-10-03,Anker 100W USB-C GaN Charger,Electronics,North America,3,185.85,72.0,113.85,Echo Interactive Labs
+INV-20250526,2025-11-18,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,1,99.0,48.0,51.0,Summit Ventures Ltd
+INV-20250527,2026-04-22,Moleskine Classic Leather Journal,Office Supplies,North America,2,45.6,17.0,28.6,Pinnacle Capital
+INV-20250528,2026-06-11,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Nexus Cloud Solutions
+INV-20250529,2026-07-25,Moleskine Classic Leather Journal,Office Supplies,Europe,2,45.6,17.0,28.6,Omni Retail Networks
+INV-20250530,2025-10-22,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,1,68.0,22.0,46.0,Pinnacle Capital
+INV-20250531,2026-08-05,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,882.0,710.0,172.0,Vanguard Health Technologies
+INV-20250532,2026-02-27,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,1,130.5,80.0,50.5,Alpha Core Dynamics
+INV-20250533,2026-07-11,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,5,1700.0,750.0,950.0,Synergy Design Co
+INV-20250534,2025-10-25,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,252.0,120.0,132.0,BluePeak Systems
+INV-20250535,2025-08-19,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,68.0,22.0,46.0,Vanguard Health Technologies
+INV-20250536,2026-07-15,Ergonomic Gel Wrist Rest Pad,Office Supplies,Middle East,1,25.2,9.0,16.2,Summit Ventures Ltd
+INV-20250537,2026-04-22,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,1,152.25,80.0,72.25,Ironclad Cyber Security
+INV-20250538,2026-01-11,"MacBook Pro M3 Max 16""",Electronics,Asia Pacific,1,2499.0,1850.0,649.0,Horizon Financial Partners
+INV-20250539,2026-04-06,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,504.0,240.0,264.0,Hyperion Energy
+INV-20250540,2025-10-12,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,294.0,120.0,174.0,Alpha Core Dynamics
+INV-20250541,2025-09-05,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,3,510.3,405.0,105.3,Hyperion Energy
+INV-20250542,2025-10-06,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,560.0,240.0,320.0,Nexus Cloud Solutions
+INV-20250543,2026-04-02,Steelcase Gesture Ergonomic Stool,Office Furniture,Latin America,1,980.0,710.0,270.0,Apex Global Logistics
+INV-20250544,2026-09-16,Moleskine Classic Leather Journal,Office Supplies,Latin America,3,72.0,25.5,46.5,Quantum Innovations Inc
+INV-20250545,2026-02-10,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,3,819.0,525.0,294.0,Echo Interactive Labs
+INV-20250546,2025-10-25,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,3,1020.0,450.0,570.0,Alpha Core Dynamics
+INV-20250547,2026-05-14,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,1,273.0,175.0,98.0,Vanguard Health Technologies
+INV-20250548,2026-01-11,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,854.05,620.0,234.05,Echo Interactive Labs
+INV-20250549,2026-10-06,Recycled Laser Printer Paper (10 Reams),Office Supplies,Middle East,1,58.5,52.0,6.5,Pinnacle Capital
+INV-20250550,2026-07-16,Dell XPS 15 OLED,Electronics,Middle East,1,1799.0,1350.0,449.0,Omni Retail Networks
+INV-20250551,2025-12-19,Herman Miller Aeron Chair,Office Furniture,North America,3,3375.0,2670.0,705.0,Vanguard Health Technologies
+INV-20250552,2025-12-30,Heavy-Duty Desktop Stapler,Office Supplies,North America,2,63.0,28.0,35.0,Pinnacle Capital
+INV-20250553,2026-09-12,Moleskine Classic Leather Journal,Office Supplies,North America,1,25.2,8.5,16.7,Hyperion Energy
+INV-20250554,2026-02-19,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,80.1,38.0,42.1,Synergy Design Co
+INV-20250555,2026-09-15,Oak Solid Wood Executive Desk,Office Furniture,Europe,3,4350.0,3150.0,1200.0,Omni Retail Networks
+INV-20250556,2026-07-21,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Middle East,2,178.0,76.0,102.0,Pinnacle Capital
+INV-20250557,2026-03-22,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,3,702.0,525.0,177.0,Horizon Financial Partners
+INV-20250558,2026-02-03,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,2,1500.0,1040.0,460.0,BluePeak Systems
+INV-20250559,2026-02-06,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,4,880.0,380.0,500.0,Hyperion Energy
+INV-20250560,2026-04-07,Dell XPS 15 OLED,Electronics,North America,1,1799.0,1350.0,449.0,Hyperion Energy
+INV-20250561,2025-11-26,Moleskine Classic Leather Journal,Office Supplies,Europe,10,240.0,85.0,155.0,Nexus Cloud Solutions
+INV-20250562,2026-01-02,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,323.0,150.0,173.0,Omni Retail Networks
+INV-20250563,2026-07-13,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,1,675.0,520.0,155.0,Pinnacle Capital
+INV-20250564,2026-09-05,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,Echo Interactive Labs
+INV-20250565,2026-04-16,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,208.95,130.0,78.95,Horizon Financial Partners
+INV-20250566,2025-08-19,Herman Miller Aeron Chair,Office Furniture,Europe,1,1187.5,890.0,297.5,Ironclad Cyber Security
+INV-20250567,2026-08-05,Logitech MX Master 3S Mouse,Electronics,Middle East,1,99.0,48.0,51.0,Nexus Cloud Solutions
+INV-20250568,2026-10-01,Herman Miller Aeron Chair,Office Furniture,North America,1,1187.5,890.0,297.5,Echo Interactive Labs
+INV-20250569,2026-02-26,Mobile 3-Drawer File Cabinet,Office Furniture,Latin America,3,567.0,405.0,162.0,Starlight Media Group
+INV-20250570,2025-09-19,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Middle East,2,680.0,300.0,380.0,Starlight Media Group
+INV-20250571,2026-02-10,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,136.0,44.0,92.0,Ironclad Cyber Security
+INV-20250572,2025-12-04,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,1,145.0,80.0,65.0,Ironclad Cyber Security
+INV-20250573,2026-08-23,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,1,179.1,110.0,69.1,Alpha Core Dynamics
+INV-20250574,2026-01-03,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,2,2900.0,2100.0,800.0,Horizon Financial Partners
+INV-20250575,2026-06-22,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,280.0,120.0,160.0,Echo Interactive Labs
+INV-20250576,2026-05-07,Everyday Canvas Laptop Backpack,Fashion & Apparel,Latin America,2,170.0,72.0,98.0,Horizon Financial Partners
+INV-20250577,2025-09-11,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,3,267.0,114.0,153.0,Pinnacle Capital
+INV-20250578,2026-04-27,Heavy-Duty Desktop Stapler,Office Supplies,North America,2,70.0,28.0,42.0,Horizon Financial Partners
+INV-20250579,2026-02-15,Recycled Laser Printer Paper (10 Reams),Office Supplies,Latin America,5,325.0,260.0,65.0,Apex Global Logistics
+INV-20250580,2026-03-18,Ergonomic Gel Wrist Rest Pad,Office Supplies,Latin America,1,28.0,9.0,19.0,Alpha Core Dynamics
+INV-20250581,2025-09-21,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,129.0,60.0,69.0,Hyperion Energy
+INV-20250582,2025-09-14,"MacBook Pro M3 Max 16""",Electronics,North America,5,11245.5,9250.0,1995.5,Apex Global Logistics
+INV-20250583,2026-04-28,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,3,175.5,156.0,19.5,Echo Interactive Labs
+INV-20250584,2026-05-16,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,2,398.0,260.0,138.0,Pinnacle Capital
+INV-20250585,2026-05-03,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,4,3000.0,2080.0,920.0,Quantum Innovations Inc
+INV-20250586,2026-07-05,Premium Merino Wool Blazer,Fashion & Apparel,North America,3,840.0,360.0,480.0,Alpha Core Dynamics
+INV-20250587,2025-12-15,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,1,980.0,710.0,270.0,Echo Interactive Labs
+INV-20250588,2026-06-22,"High-Grade Whiteboard 48x36""",Office Supplies,North America,1,145.0,80.0,65.0,Alpha Core Dynamics
+INV-20250589,2026-08-09,Logitech MX Master 3S Mouse,Electronics,North America,1,89.1,48.0,41.1,Starlight Media Group
+INV-20250590,2026-08-19,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,179.55,135.0,44.55,Hyperion Energy
+INV-20250591,2025-12-30,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,2,398.0,220.0,178.0,Omni Retail Networks
+INV-20250592,2026-10-02,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Latin America,1,135.45,60.0,75.45,Vanguard Health Technologies
+INV-20250593,2026-07-02,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,359.1,240.0,119.1,Alpha Core Dynamics
+INV-20250594,2026-06-01,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,65.0,52.0,13.0,Ironclad Cyber Security
+INV-20250595,2026-06-04,Jarvis Dual-Motor Standing Desk,Office Furniture,Asia Pacific,2,1500.0,1040.0,460.0,Synergy Design Co
+INV-20250596,2025-09-06,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,3,3750.0,2670.0,1080.0,Apex Global Logistics
+INV-20250597,2026-02-27,Herman Miller Aeron Chair,Office Furniture,North America,4,5000.0,3560.0,1440.0,Vanguard Health Technologies
+INV-20250598,2026-08-15,Dell XPS 15 OLED,Electronics,Europe,2,3238.2,2700.0,538.2,Synergy Design Co
+INV-20250599,2026-08-18,Herman Miller Aeron Chair,Office Furniture,North America,1,1250.0,890.0,360.0,Nexus Cloud Solutions
+INV-20250600,2026-07-25,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,4,880.0,380.0,500.0,Summit Ventures Ltd
+INV-20250601,2026-03-08,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,1,1125.0,890.0,235.0,Apex Global Logistics
+INV-20250602,2026-01-29,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,1,882.0,710.0,172.0,BluePeak Systems
+INV-20250603,2026-05-30,"MacBook Pro M3 Max 16""",Electronics,North America,3,7871.85,5550.0,2321.85,BluePeak Systems
+INV-20250604,2026-04-24,Herman Miller Aeron Chair,Office Furniture,Europe,10,12500.0,8900.0,3600.0,Alpha Core Dynamics
+INV-20250605,2026-09-26,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Latin America,1,89.0,38.0,51.0,Hyperion Energy
+INV-20250606,2026-02-08,"High-Grade Whiteboard 48x36""",Office Supplies,North America,2,290.0,160.0,130.0,Summit Ventures Ltd
+INV-20250607,2026-02-23,Oak Solid Wood Executive Desk,Office Furniture,North America,3,4132.5,3150.0,982.5,Pinnacle Capital
+INV-20250608,2026-03-17,Logitech MX Master 3S Mouse,Electronics,North America,1,99.0,48.0,51.0,Horizon Financial Partners
+INV-20250609,2025-09-06,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,4,835.8,440.0,395.8,Quantum Innovations Inc
+INV-20250610,2026-04-06,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,8,1160.0,640.0,520.0,Vanguard Health Technologies
+INV-20250611,2026-07-07,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,3,660.0,285.0,375.0,Starlight Media Group
+INV-20250612,2026-07-20,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,5,1100.0,475.0,625.0,Nexus Cloud Solutions
+INV-20250613,2026-09-29,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,931.0,710.0,221.0,Vanguard Health Technologies
+INV-20250614,2025-09-22,Oak Solid Wood Executive Desk,Office Furniture,Europe,5,7250.0,5250.0,2000.0,Horizon Financial Partners
+INV-20250615,2025-11-02,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,116.1,60.0,56.1,Quantum Innovations Inc
+INV-20250616,2026-05-16,Moleskine Classic Leather Journal,Office Supplies,North America,1,24.0,8.5,15.5,Quantum Innovations Inc
+INV-20250617,2025-10-15,Moleskine Classic Leather Journal,Office Supplies,North America,1,22.8,8.5,14.3,BluePeak Systems
+INV-20250618,2025-12-03,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,3,567.15,390.0,177.15,Apex Global Logistics
+INV-20250619,2026-02-13,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Horizon Financial Partners
+INV-20250620,2025-11-12,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,76.5,36.0,40.5,Omni Retail Networks
+INV-20250621,2025-12-20,Moleskine Classic Leather Journal,Office Supplies,Europe,1,24.0,8.5,15.5,Summit Ventures Ltd
+INV-20250622,2025-08-21,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,1,260.0,175.0,85.0,Quantum Innovations Inc
+INV-20250623,2026-02-21,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,2,398.0,220.0,178.0,Nexus Cloud Solutions
+INV-20250624,2026-10-05,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,220.0,95.0,125.0,Synergy Design Co
+INV-20250625,2026-10-03,Anker 100W USB-C GaN Charger,Electronics,Latin America,1,56.05,24.0,32.05,Ironclad Cyber Security
+INV-20250626,2025-09-09,Logitech MX Master 3S Mouse,Electronics,North America,1,103.95,48.0,55.95,Ironclad Cyber Security
+INV-20250627,2026-04-26,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,1,130.5,80.0,50.5,Nexus Cloud Solutions
+INV-20250628,2025-11-18,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,809.1,620.0,189.1,Synergy Design Co
+INV-20250629,2026-06-26,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,189.05,110.0,79.05,Alpha Core Dynamics
+INV-20250630,2026-04-17,Heavy-Duty Desktop Stapler,Office Supplies,Europe,1,33.25,14.0,19.25,Summit Ventures Ltd
+INV-20250631,2026-07-10,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,4,117.6,36.0,81.6,Horizon Financial Partners
+INV-20250632,2026-05-20,Herman Miller Aeron Chair,Office Furniture,Europe,3,3375.0,2670.0,705.0,Hyperion Energy
+INV-20250633,2026-05-20,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,3,741.0,525.0,216.0,Ironclad Cyber Security
+INV-20250634,2025-12-31,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,209.0,95.0,114.0,Nexus Cloud Solutions
+INV-20250635,2026-10-04,Breathable Tech Polo Shirt,Fashion & Apparel,North America,3,204.0,66.0,138.0,Synergy Design Co
+INV-20250636,2026-02-14,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,3,780.0,525.0,255.0,Summit Ventures Ltd
+INV-20250637,2025-12-16,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,899.0,620.0,279.0,Pinnacle Capital
+INV-20250638,2026-06-05,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Middle East,3,348.3,180.0,168.3,Horizon Financial Partners
+INV-20250639,2025-11-11,Mobile 3-Drawer File Cabinet,Office Furniture,Latin America,1,198.45,135.0,63.45,Omni Retail Networks
+INV-20250640,2026-02-14,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,4,5800.0,4200.0,1600.0,Echo Interactive Labs
+INV-20250641,2026-05-30,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,1,199.0,130.0,69.0,Alpha Core Dynamics
+INV-20250642,2026-05-19,HEPA Air Purifier Pro Tower,Home & Lifestyle,Latin America,1,234.0,175.0,59.0,Ironclad Cyber Security
+INV-20250643,2026-06-19,Dell XPS 15 OLED,Electronics,North America,1,1888.95,1350.0,538.95,Horizon Financial Partners
+INV-20250644,2026-06-25,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,35.0,14.0,21.0,Synergy Design Co
+INV-20250645,2026-09-29,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,3,4132.5,3150.0,982.5,Synergy Design Co
+INV-20250646,2026-08-10,Dell XPS 15 OLED,Electronics,North America,4,7196.0,5400.0,1796.0,Alpha Core Dynamics
+INV-20250647,2026-02-22,Recycled Laser Printer Paper (10 Reams),Office Supplies,Latin America,2,117.0,104.0,13.0,Quantum Innovations Inc
+INV-20250648,2026-01-27,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,220.0,95.0,125.0,BluePeak Systems
+INV-20250649,2026-07-08,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Middle East,5,422.75,190.0,232.75,Hyperion Energy
+INV-20250650,2026-08-05,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,4,3775.8,2480.0,1295.8,Summit Ventures Ltd
+INV-20250651,2026-06-12,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,3,702.0,525.0,177.0,Pinnacle Capital
+INV-20250652,2025-10-19,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,1,980.0,710.0,270.0,BluePeak Systems
+INV-20250653,2026-09-13,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Middle East,5,995.0,650.0,345.0,Nexus Cloud Solutions
+INV-20250654,2026-10-03,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,5,4495.0,3100.0,1395.0,Synergy Design Co
+INV-20250655,2026-04-26,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,340.0,150.0,190.0,Synergy Design Co
+INV-20250656,2025-11-08,Herman Miller Aeron Chair,Office Furniture,North America,2,2500.0,1780.0,720.0,Vanguard Health Technologies
+INV-20250657,2026-02-02,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,189.05,130.0,59.05,Echo Interactive Labs
+INV-20250658,2026-02-10,Anker 100W USB-C GaN Charger,Electronics,North America,1,59.0,24.0,35.0,Quantum Innovations Inc
+INV-20250659,2026-03-27,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,178.0,76.0,102.0,Nexus Cloud Solutions
+INV-20250660,2026-02-10,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,2,290.0,160.0,130.0,Nexus Cloud Solutions
+INV-20250661,2026-07-14,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,3,105.0,42.0,63.0,Alpha Core Dynamics
+INV-20250662,2025-09-01,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,1,854.05,620.0,234.05,Hyperion Energy
+INV-20250663,2026-02-06,Jarvis Dual-Motor Standing Desk,Office Furniture,Middle East,1,675.0,520.0,155.0,Quantum Innovations Inc
+INV-20250664,2025-10-01,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,1,943.95,620.0,323.95,Summit Ventures Ltd
+INV-20250665,2026-07-15,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,1,31.5,14.0,17.5,Nexus Cloud Solutions
+INV-20250666,2025-11-28,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,8,6472.8,4960.0,1512.8,Vanguard Health Technologies
+INV-20250667,2026-08-23,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,2,378.1,260.0,118.1,Synergy Design Co
+INV-20250668,2026-03-04,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,2,1764.0,1420.0,344.0,Apex Global Logistics
+INV-20250669,2026-03-21,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,208.95,110.0,98.95,Apex Global Logistics
+INV-20250670,2025-11-28,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,33.25,14.0,19.25,Apex Global Logistics
+INV-20250671,2026-01-19,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,3,1077.3,720.0,357.3,Quantum Innovations Inc
+INV-20250672,2025-09-30,Heavy-Duty Desktop Stapler,Office Supplies,Latin America,2,63.0,28.0,35.0,BluePeak Systems
+INV-20250673,2026-02-20,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,899.0,620.0,279.0,Nexus Cloud Solutions
+INV-20250674,2025-12-08,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,3,2362.5,1560.0,802.5,BluePeak Systems
+INV-20250675,2026-07-22,Dell XPS 15 OLED,Electronics,North America,1,1709.05,1350.0,359.05,Echo Interactive Labs
+INV-20250676,2026-06-12,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,1,260.0,175.0,85.0,Hyperion Energy
+INV-20250677,2026-05-16,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,2,50.4,18.0,32.4,Nexus Cloud Solutions
+INV-20250678,2026-01-15,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Latin America,1,220.0,95.0,125.0,Ironclad Cyber Security
+INV-20250679,2026-09-28,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,136.5,104.0,32.5,Summit Ventures Ltd
+INV-20250680,2026-04-01,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Hyperion Energy
+INV-20250681,2025-09-05,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,1,53.1,24.0,29.1,Starlight Media Group
+INV-20250682,2025-10-29,Anker 100W USB-C GaN Charger,Electronics,Middle East,3,168.15,72.0,96.15,Pinnacle Capital
+INV-20250683,2026-10-02,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1305.0,1050.0,255.0,Synergy Design Co
+INV-20250684,2026-01-03,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,560.0,240.0,320.0,Vanguard Health Technologies
+INV-20250685,2026-05-09,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,3,780.0,525.0,255.0,Alpha Core Dynamics
+INV-20250686,2026-06-12,"High-Grade Whiteboard 48x36""",Office Supplies,North America,2,290.0,160.0,130.0,Alpha Core Dynamics
+INV-20250687,2026-09-21,Logitech MX Master 3S Mouse,Electronics,Europe,1,103.95,48.0,55.95,Quantum Innovations Inc
+INV-20250688,2026-02-27,Mobile 3-Drawer File Cabinet,Office Furniture,Latin America,2,396.9,270.0,126.9,BluePeak Systems
+INV-20250689,2026-01-03,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,1,71.4,22.0,49.4,Starlight Media Group
+INV-20250690,2025-09-03,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,1,64.6,22.0,42.6,Nexus Cloud Solutions
+INV-20250691,2026-04-15,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,4,756.2,520.0,236.2,Echo Interactive Labs
+INV-20250692,2026-01-17,"MacBook Pro M3 Max 16""",Electronics,North America,1,2249.1,1850.0,399.1,Hyperion Energy
+INV-20250693,2025-12-09,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,1,179.1,130.0,49.1,Omni Retail Networks
+INV-20250694,2026-08-23,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,129.0,60.0,69.0,BluePeak Systems
+INV-20250695,2026-03-11,Anker 100W USB-C GaN Charger,Electronics,Europe,2,123.9,48.0,75.9,Synergy Design Co
+INV-20250696,2026-09-24,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,1,179.55,135.0,44.55,Summit Ventures Ltd
+INV-20250697,2026-09-18,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,3,626.85,390.0,236.85,Starlight Media Group
+INV-20250698,2025-11-25,"MacBook Pro M3 Max 16""",Electronics,North America,3,7497.0,5550.0,1947.0,Synergy Design Co
+INV-20250699,2026-02-15,Dell XPS 15 OLED,Electronics,Europe,2,3418.1,2700.0,718.1,Synergy Design Co
+INV-20250700,2026-03-06,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,2,378.0,270.0,108.0,Summit Ventures Ltd
+INV-20250701,2026-04-22,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,2,170.0,72.0,98.0,Vanguard Health Technologies
+INV-20250702,2026-02-07,Heavy-Duty Desktop Stapler,Office Supplies,Europe,1,33.25,14.0,19.25,Vanguard Health Technologies
+INV-20250703,2026-01-07,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Asia Pacific,1,89.0,38.0,51.0,Quantum Innovations Inc
+INV-20250704,2025-12-02,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,3,2697.0,1860.0,837.0,Hyperion Energy
+INV-20250705,2026-03-12,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,2,170.0,72.0,98.0,Pinnacle Capital
+INV-20250706,2025-11-11,Heavy-Duty Desktop Stapler,Office Supplies,Latin America,2,70.0,28.0,42.0,Pinnacle Capital
+INV-20250707,2026-01-18,Herman Miller Aeron Chair,Office Furniture,North America,2,2375.0,1780.0,595.0,Hyperion Energy
+INV-20250708,2026-02-09,"High-Grade Whiteboard 48x36""",Office Supplies,Latin America,1,145.0,80.0,65.0,Omni Retail Networks
+INV-20250709,2026-06-30,Moleskine Classic Leather Journal,Office Supplies,North America,1,24.0,8.5,15.5,Summit Ventures Ltd
+INV-20250710,2026-02-22,"MacBook Pro M3 Max 16""",Electronics,Europe,2,5247.9,3700.0,1547.9,Pinnacle Capital
+INV-20250711,2025-10-09,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Pinnacle Capital
+INV-20250712,2026-01-03,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,1,712.5,520.0,192.5,Omni Retail Networks
+INV-20250713,2025-12-16,Anker 100W USB-C GaN Charger,Electronics,North America,4,247.8,96.0,151.8,Hyperion Energy
+INV-20250714,2025-10-25,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,2,50.4,18.0,32.4,Pinnacle Capital
+INV-20250715,2026-03-10,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,980.0,710.0,270.0,Nexus Cloud Solutions
+INV-20250716,2026-10-06,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,1,220.0,95.0,125.0,Alpha Core Dynamics
+INV-20250717,2026-04-15,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,4,323.0,144.0,179.0,Hyperion Energy
+INV-20250718,2026-07-17,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,4,260.0,208.0,52.0,Starlight Media Group
+INV-20250719,2026-08-29,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,1029.0,710.0,319.0,Starlight Media Group
+INV-20250720,2026-02-02,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Latin America,2,258.0,120.0,138.0,Pinnacle Capital
+INV-20250721,2026-01-19,Mobile 3-Drawer File Cabinet,Office Furniture,North America,1,179.55,135.0,44.55,Omni Retail Networks
+INV-20250722,2026-04-09,Mobile 3-Drawer File Cabinet,Office Furniture,North America,3,510.3,405.0,105.3,BluePeak Systems
+INV-20250723,2026-06-08,Dell XPS 15 OLED,Electronics,Latin America,5,8995.0,6750.0,2245.0,Alpha Core Dynamics
+INV-20250724,2025-10-15,Heavy-Duty Desktop Stapler,Office Supplies,Latin America,3,94.5,42.0,52.5,Summit Ventures Ltd
+INV-20250725,2025-10-31,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,65.0,52.0,13.0,Apex Global Logistics
+INV-20250726,2026-04-06,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1450.0,1050.0,400.0,Alpha Core Dynamics
+INV-20250727,2026-07-04,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,8,980.4,480.0,500.4,Vanguard Health Technologies
+INV-20250728,2026-01-02,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,Ironclad Cyber Security
+INV-20250729,2026-09-21,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,3,660.0,285.0,375.0,Ironclad Cyber Security
+INV-20250730,2026-03-22,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,179.1,110.0,69.1,Pinnacle Capital
+INV-20250731,2025-11-25,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,2,56.0,18.0,38.0,Summit Ventures Ltd
+INV-20250732,2025-11-20,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,1,1450.0,1050.0,400.0,Summit Ventures Ltd
+INV-20250733,2026-08-05,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,4,1292.0,600.0,692.0,Horizon Financial Partners
+INV-20250734,2026-06-12,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Summit Ventures Ltd
+INV-20250735,2026-04-05,Dell XPS 15 OLED,Electronics,North America,2,3777.9,2700.0,1077.9,BluePeak Systems
+INV-20250736,2026-08-01,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,10,617.5,520.0,97.5,Synergy Design Co
+INV-20250737,2025-11-07,Heavy-Duty Desktop Stapler,Office Supplies,North America,5,157.5,70.0,87.5,Horizon Financial Partners
+INV-20250738,2025-10-21,"MacBook Pro M3 Max 16""",Electronics,North America,1,2499.0,1850.0,649.0,Echo Interactive Labs
+INV-20250739,2026-02-18,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,2,440.0,190.0,250.0,Quantum Innovations Inc
+INV-20250740,2026-09-13,Ergonomic Gel Wrist Rest Pad,Office Supplies,Latin America,2,56.0,18.0,38.0,BluePeak Systems
+INV-20250741,2025-10-09,Breathable Tech Polo Shirt,Fashion & Apparel,Middle East,2,136.0,44.0,92.0,Pinnacle Capital
+INV-20250742,2026-03-30,Dell XPS 15 OLED,Electronics,Asia Pacific,1,1888.95,1350.0,538.95,Nexus Cloud Solutions
+INV-20250743,2025-11-28,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,2,1500.0,1040.0,460.0,Starlight Media Group
+INV-20250744,2026-07-20,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,2,2058.0,1420.0,638.0,Quantum Innovations Inc
+INV-20250745,2025-10-07,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,2,142.8,44.0,98.8,Nexus Cloud Solutions
+INV-20250746,2025-10-08,Logitech MX Master 3S Mouse,Electronics,North America,1,103.95,48.0,55.95,Hyperion Energy
+INV-20250747,2026-05-09,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,8,448.4,192.0,256.4,Omni Retail Networks
+INV-20250748,2025-09-04,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,2,398.0,260.0,138.0,Starlight Media Group
+INV-20250749,2025-12-13,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Latin America,1,199.0,130.0,69.0,Vanguard Health Technologies
+INV-20250750,2026-04-24,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,1,99.0,48.0,51.0,Pinnacle Capital
+INV-20250751,2026-08-20,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,122.55,60.0,62.55,Echo Interactive Labs
+INV-20250752,2025-12-28,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,340.0,150.0,190.0,BluePeak Systems
+INV-20250753,2026-01-10,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Latin America,1,854.05,620.0,234.05,Omni Retail Networks
+INV-20250754,2026-09-07,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,4,580.0,320.0,260.0,Quantum Innovations Inc
+INV-20250755,2026-01-30,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,179.1,110.0,69.1,Starlight Media Group
+INV-20250756,2025-10-01,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Echo Interactive Labs
+INV-20250757,2026-04-05,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,809.1,620.0,189.1,Nexus Cloud Solutions
+INV-20250758,2026-03-18,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,2,398.0,260.0,138.0,Hyperion Energy
+INV-20250759,2025-09-14,Logitech MX Master 3S Mouse,Electronics,North America,8,792.0,384.0,408.0,Echo Interactive Labs
+INV-20250760,2026-04-19,Logitech MX Master 3S Mouse,Electronics,Europe,3,267.3,144.0,123.3,Alpha Core Dynamics
+INV-20250761,2026-02-14,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,2,1798.0,1240.0,558.0,Hyperion Energy
+INV-20250762,2026-03-13,Heavy-Duty Desktop Stapler,Office Supplies,Latin America,1,35.0,14.0,21.0,Quantum Innovations Inc
+INV-20250763,2026-08-10,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,3,2362.5,1560.0,802.5,Apex Global Logistics
+INV-20250764,2026-05-31,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,122.55,60.0,62.55,Echo Interactive Labs
+INV-20250765,2026-06-27,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,65.0,52.0,13.0,Echo Interactive Labs
+INV-20250766,2026-07-09,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,36.75,14.0,22.75,Pinnacle Capital
+INV-20250767,2025-11-03,Breathable Tech Polo Shirt,Fashion & Apparel,North America,2,122.4,44.0,78.4,Pinnacle Capital
+INV-20250768,2026-09-03,Heavy-Duty Desktop Stapler,Office Supplies,Latin America,1,35.0,14.0,21.0,Quantum Innovations Inc
+INV-20250769,2026-05-01,Oak Solid Wood Executive Desk,Office Furniture,Middle East,1,1305.0,1050.0,255.0,Apex Global Logistics
+INV-20250770,2026-04-07,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,1,29.4,9.0,20.4,Quantum Innovations Inc
+INV-20250771,2026-03-31,Moleskine Classic Leather Journal,Office Supplies,North America,1,21.6,8.5,13.1,Ironclad Cyber Security
+INV-20250772,2026-03-09,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,93.45,38.0,55.45,Quantum Innovations Inc
+INV-20250773,2026-09-24,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,588.0,240.0,348.0,Quantum Innovations Inc
+INV-20250774,2026-05-29,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,306.0,150.0,156.0,Summit Ventures Ltd
+INV-20250775,2026-10-07,Oak Solid Wood Executive Desk,Office Furniture,North America,1,1305.0,1050.0,255.0,Apex Global Logistics
+INV-20250776,2026-06-18,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1377.5,1050.0,327.5,Alpha Core Dynamics
+INV-20250777,2026-09-07,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,2,398.0,260.0,138.0,Quantum Innovations Inc
+INV-20250778,2026-09-28,Oak Solid Wood Executive Desk,Office Furniture,North America,1,1522.5,1050.0,472.5,Pinnacle Capital
+INV-20250779,2025-11-07,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,1,170.1,135.0,35.1,Apex Global Logistics
+INV-20250780,2025-11-19,Logitech MX Master 3S Mouse,Electronics,North America,1,89.1,48.0,41.1,Horizon Financial Partners
+INV-20250781,2025-11-20,Anker 100W USB-C GaN Charger,Electronics,Europe,2,118.0,48.0,70.0,Hyperion Energy
+INV-20250782,2026-07-05,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,3,406.35,180.0,226.35,Synergy Design Co
+INV-20250783,2026-04-06,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,2,207.9,96.0,111.9,Ironclad Cyber Security
+INV-20250784,2026-05-13,Keychron Q1 Pro Mechanical Keyboard,Electronics,Middle East,2,417.9,220.0,197.9,Apex Global Logistics
+INV-20250785,2026-05-02,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,3,435.0,240.0,195.0,Ironclad Cyber Security
+INV-20250786,2026-10-06,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,179.1,130.0,49.1,Echo Interactive Labs
+INV-20250787,2026-01-26,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,2,153.0,72.0,81.0,Synergy Design Co
+INV-20250788,2026-08-04,"High-Grade Whiteboard 48x36""",Office Supplies,Middle East,3,413.25,240.0,173.25,Synergy Design Co
+INV-20250789,2026-04-03,Ergonomic Gel Wrist Rest Pad,Office Supplies,Middle East,3,84.0,27.0,57.0,BluePeak Systems
+INV-20250790,2026-09-02,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,2,304.5,160.0,144.5,Synergy Design Co
+INV-20250791,2026-05-25,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,2,2900.0,2100.0,800.0,Synergy Design Co
+INV-20250792,2026-08-01,Anker 100W USB-C GaN Charger,Electronics,Europe,1,59.0,24.0,35.0,BluePeak Systems
+INV-20250793,2026-04-29,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,2,378.1,260.0,118.1,Starlight Media Group
+INV-20250794,2026-05-29,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,208.95,130.0,78.95,Vanguard Health Technologies
+INV-20250795,2026-09-01,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,4,357.0,144.0,213.0,Pinnacle Capital
+INV-20250796,2026-10-02,Steelcase Gesture Ergonomic Stool,Office Furniture,Latin America,1,980.0,710.0,270.0,Nexus Cloud Solutions
+INV-20250797,2026-07-24,"MacBook Pro M3 Max 16""",Electronics,North America,1,2374.05,1850.0,524.05,Apex Global Logistics
+INV-20250798,2026-07-30,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,129.0,60.0,69.0,BluePeak Systems
+INV-20250799,2026-09-04,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,2,378.1,260.0,118.1,Horizon Financial Partners
+INV-20250800,2026-07-26,Moleskine Classic Leather Journal,Office Supplies,North America,2,48.0,17.0,31.0,Omni Retail Networks
+INV-20250801,2025-12-14,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,2,169.1,76.0,93.1,Nexus Cloud Solutions
+INV-20250802,2026-02-26,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,189.05,130.0,59.05,Synergy Design Co
+INV-20250803,2025-12-21,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,252.0,120.0,132.0,Echo Interactive Labs
+INV-20250804,2026-08-13,Herman Miller Aeron Chair,Office Furniture,Latin America,2,2625.0,1780.0,845.0,Echo Interactive Labs
+INV-20250805,2026-09-16,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,2,560.0,240.0,320.0,Horizon Financial Partners
+INV-20250806,2025-09-22,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,980.0,710.0,270.0,Pinnacle Capital
+INV-20250807,2025-09-04,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,93.45,38.0,55.45,Nexus Cloud Solutions
+INV-20250808,2025-12-23,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,1,675.0,520.0,155.0,Alpha Core Dynamics
+INV-20250809,2025-11-01,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Latin America,4,835.8,520.0,315.8,Apex Global Logistics
+INV-20250810,2026-06-26,Dell XPS 15 OLED,Electronics,Asia Pacific,3,5127.15,4050.0,1077.15,Pinnacle Capital
+INV-20250811,2026-02-14,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,1,33.25,14.0,19.25,Summit Ventures Ltd
+INV-20250812,2026-05-08,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,68.25,52.0,16.25,Starlight Media Group
+INV-20250813,2026-03-09,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,1,899.0,620.0,279.0,Summit Ventures Ltd
+INV-20250814,2026-02-15,Anker 100W USB-C GaN Charger,Electronics,Europe,1,61.95,24.0,37.95,Vanguard Health Technologies
+INV-20250815,2026-09-04,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,8,520.0,416.0,104.0,Summit Ventures Ltd
+INV-20250816,2025-12-16,Logitech MX Master 3S Mouse,Electronics,Europe,4,415.8,192.0,223.8,Ironclad Cyber Security
+INV-20250817,2026-07-30,Breathable Tech Polo Shirt,Fashion & Apparel,North America,4,244.8,88.0,156.8,Apex Global Logistics
+INV-20250818,2025-12-24,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,2,494.0,350.0,144.0,Nexus Cloud Solutions
+INV-20250819,2026-09-13,"MacBook Pro M3 Max 16""",Electronics,Latin America,1,2623.95,1850.0,773.95,Omni Retail Networks
+INV-20250820,2026-07-14,Moleskine Classic Leather Journal,Office Supplies,Europe,1,25.2,8.5,16.7,BluePeak Systems
+INV-20250821,2026-09-14,Sony WH-1000XM5 Wireless Headphones,Electronics,Middle East,2,798.0,480.0,318.0,Starlight Media Group
+INV-20250822,2026-07-03,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,3,918.0,450.0,468.0,Pinnacle Capital
+INV-20250823,2026-08-09,Logitech MX Master 3S Mouse,Electronics,North America,4,356.4,192.0,164.4,Omni Retail Networks
+INV-20250824,2026-09-01,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,2,680.0,300.0,380.0,Quantum Innovations Inc
+INV-20250825,2025-09-28,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,1,24.0,8.5,15.5,Apex Global Logistics
+INV-20250826,2026-06-05,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,3,741.0,525.0,216.0,Quantum Innovations Inc
+INV-20250827,2026-03-10,"High-Grade Whiteboard 48x36""",Office Supplies,North America,1,145.0,80.0,65.0,Pinnacle Capital
+INV-20250828,2025-08-18,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,2,58.8,18.0,40.8,Summit Ventures Ltd
+INV-20250829,2025-09-07,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,2,798.0,480.0,318.0,Alpha Core Dynamics
+INV-20250830,2026-01-10,Mobile 3-Drawer File Cabinet,Office Furniture,Latin America,3,538.65,405.0,133.65,Quantum Innovations Inc
+INV-20250831,2026-03-27,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,68.0,22.0,46.0,Hyperion Energy
+INV-20250832,2025-10-23,Heavy-Duty Desktop Stapler,Office Supplies,North America,2,73.5,28.0,45.5,Horizon Financial Partners
+INV-20250833,2026-01-14,Steelcase Gesture Ergonomic Stool,Office Furniture,Middle East,2,1862.0,1420.0,442.0,Starlight Media Group
+INV-20250834,2025-10-26,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2499.0,1850.0,649.0,Summit Ventures Ltd
+INV-20250835,2026-05-22,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,5,1045.0,475.0,570.0,Summit Ventures Ltd
+INV-20250836,2026-08-21,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,1,53.1,24.0,29.1,Synergy Design Co
+INV-20250837,2025-11-05,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,1,357.0,150.0,207.0,Starlight Media Group
+INV-20250838,2026-07-24,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,3,2250.0,1560.0,690.0,Starlight Media Group
+INV-20250839,2026-04-08,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Latin America,2,258.0,120.0,138.0,Summit Ventures Ltd
+INV-20250840,2025-10-04,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,1029.0,710.0,319.0,BluePeak Systems
+INV-20250841,2025-10-19,Heavy-Duty Desktop Stapler,Office Supplies,Middle East,2,70.0,28.0,42.0,Vanguard Health Technologies
+INV-20250842,2025-11-22,Logitech MX Master 3S Mouse,Electronics,North America,1,89.1,48.0,41.1,Quantum Innovations Inc
+INV-20250843,2026-08-05,Oak Solid Wood Executive Desk,Office Furniture,Europe,2,3045.0,2100.0,945.0,BluePeak Systems
+INV-20250844,2026-03-22,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,209.0,95.0,114.0,Vanguard Health Technologies
+INV-20250845,2026-08-28,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,2,2375.0,1780.0,595.0,Echo Interactive Labs
+INV-20250846,2026-01-31,Mobile 3-Drawer File Cabinet,Office Furniture,North America,4,680.4,540.0,140.4,Echo Interactive Labs
+INV-20250847,2026-04-21,Moleskine Classic Leather Journal,Office Supplies,North America,2,48.0,17.0,31.0,BluePeak Systems
+INV-20250848,2026-01-05,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,3,1020.0,450.0,570.0,Omni Retail Networks
+INV-20250849,2026-07-01,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,280.0,120.0,160.0,Echo Interactive Labs
+INV-20250850,2025-08-30,"MacBook Pro M3 Max 16""",Electronics,Asia Pacific,3,7871.85,5550.0,2321.85,Pinnacle Capital
+INV-20250851,2025-09-02,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,2,58.8,18.0,40.8,Horizon Financial Partners
+INV-20250852,2025-10-30,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,280.0,120.0,160.0,Hyperion Energy
+INV-20250853,2026-01-10,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,135.45,60.0,75.45,Omni Retail Networks
+INV-20250854,2026-04-29,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,65.0,52.0,13.0,Vanguard Health Technologies
+INV-20250855,2025-11-07,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,3,780.0,525.0,255.0,Pinnacle Capital
+INV-20250856,2026-05-31,Moleskine Classic Leather Journal,Office Supplies,North America,2,48.0,17.0,31.0,Alpha Core Dynamics
+INV-20250857,2025-09-04,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Asia Pacific,1,80.1,38.0,42.1,Vanguard Health Technologies
+INV-20250858,2025-12-12,Herman Miller Aeron Chair,Office Furniture,North America,1,1250.0,890.0,360.0,Vanguard Health Technologies
+INV-20250859,2026-03-01,Recycled Laser Printer Paper (10 Reams),Office Supplies,Latin America,1,58.5,52.0,6.5,Vanguard Health Technologies
+INV-20250860,2026-01-27,Dell XPS 15 OLED,Electronics,North America,1,1888.95,1350.0,538.95,Pinnacle Capital
+INV-20250861,2026-08-29,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,1,357.0,150.0,207.0,Omni Retail Networks
+INV-20250862,2026-02-24,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,220.0,95.0,125.0,Pinnacle Capital
+INV-20250863,2025-12-07,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,2,123.5,104.0,19.5,Synergy Design Co
+INV-20250864,2026-06-20,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,189.0,135.0,54.0,Ironclad Cyber Security
+INV-20250865,2026-05-05,Moleskine Classic Leather Journal,Office Supplies,North America,2,48.0,17.0,31.0,Quantum Innovations Inc
+INV-20250866,2026-06-19,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,2,398.0,220.0,178.0,Vanguard Health Technologies
+INV-20250867,2026-01-31,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,2,153.0,72.0,81.0,Hyperion Energy
+INV-20250868,2026-06-13,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,76.5,36.0,40.5,Horizon Financial Partners
+INV-20250869,2026-06-04,"MacBook Pro M3 Max 16""",Electronics,North America,2,4998.0,3700.0,1298.0,Starlight Media Group
+INV-20250870,2026-06-04,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,340.0,150.0,190.0,Synergy Design Co
+INV-20250871,2026-03-10,Jarvis Dual-Motor Standing Desk,Office Furniture,Latin America,2,1575.0,1040.0,535.0,Summit Ventures Ltd
+INV-20250872,2026-08-22,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,2,646.0,300.0,346.0,Echo Interactive Labs
+INV-20250873,2026-04-13,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,3,1197.0,720.0,477.0,Alpha Core Dynamics
+INV-20250874,2025-10-27,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,3,3750.0,2670.0,1080.0,Alpha Core Dynamics
+INV-20250875,2025-11-08,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,129.2,44.0,85.2,BluePeak Systems
+INV-20250876,2025-12-10,Moleskine Classic Leather Journal,Office Supplies,Europe,1,24.0,8.5,15.5,Quantum Innovations Inc
+INV-20250877,2026-04-30,Logitech MX Master 3S Mouse,Electronics,North America,2,198.0,96.0,102.0,Summit Ventures Ltd
+INV-20250878,2026-06-25,Breathable Tech Polo Shirt,Fashion & Apparel,North America,2,142.8,44.0,98.8,Ironclad Cyber Security
+INV-20250879,2026-04-18,Recycled Laser Printer Paper (10 Reams),Office Supplies,Asia Pacific,2,136.5,104.0,32.5,Quantum Innovations Inc
+INV-20250880,2026-09-15,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,2,504.0,240.0,264.0,Synergy Design Co
+INV-20250881,2025-09-06,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,117.0,104.0,13.0,Omni Retail Networks
+INV-20250882,2026-09-23,Herman Miller Aeron Chair,Office Furniture,Latin America,3,3562.5,2670.0,892.5,Ironclad Cyber Security
+INV-20250883,2026-09-08,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,3,693.0,285.0,408.0,Synergy Design Co
+INV-20250884,2026-04-16,Logitech MX Master 3S Mouse,Electronics,Europe,3,297.0,144.0,153.0,BluePeak Systems
+INV-20250885,2026-03-12,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,980.0,710.0,270.0,Summit Ventures Ltd
+INV-20250886,2026-06-06,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,2,417.9,260.0,157.9,Apex Global Logistics
+INV-20250887,2026-08-02,"MacBook Pro M3 Max 16""",Electronics,North America,3,6747.3,5550.0,1197.3,Horizon Financial Partners
+INV-20250888,2026-07-14,Mobile 3-Drawer File Cabinet,Office Furniture,North America,2,359.1,270.0,89.1,Nexus Cloud Solutions
+INV-20250889,2026-06-24,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,252.0,120.0,132.0,Vanguard Health Technologies
+INV-20250890,2026-09-20,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,258.0,120.0,138.0,Summit Ventures Ltd
+INV-20250891,2025-12-22,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,8,1587.6,1080.0,507.6,Ironclad Cyber Security
+INV-20250892,2026-08-26,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,1,189.0,135.0,54.0,Nexus Cloud Solutions
+INV-20250893,2026-08-08,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,5,445.0,190.0,255.0,Hyperion Energy
+INV-20250894,2026-02-04,Anker 100W USB-C GaN Charger,Electronics,Europe,3,185.85,72.0,113.85,Hyperion Energy
+INV-20250895,2025-11-05,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,1,199.0,130.0,69.0,Apex Global Logistics
+INV-20250896,2026-04-13,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,4,936.0,700.0,236.0,Starlight Media Group
+INV-20250897,2026-02-20,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,399.0,240.0,159.0,Horizon Financial Partners
+INV-20250898,2026-06-25,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,169.1,76.0,93.1,Nexus Cloud Solutions
+INV-20250899,2026-09-15,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Middle East,3,537.3,390.0,147.3,Apex Global Logistics
+INV-20250900,2026-07-17,Moleskine Classic Leather Journal,Office Supplies,North America,5,126.0,42.5,83.5,Omni Retail Networks
+INV-20250901,2026-06-17,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,2,1960.0,1420.0,540.0,Hyperion Energy
+INV-20250902,2026-02-15,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,68.0,22.0,46.0,Apex Global Logistics
+INV-20250903,2026-09-18,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,1,809.1,620.0,189.1,BluePeak Systems
+INV-20250904,2025-08-22,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,2,56.0,18.0,38.0,Summit Ventures Ltd
+INV-20250905,2026-05-28,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,4,1516.2,960.0,556.2,Echo Interactive Labs
+INV-20250906,2025-12-08,Mobile 3-Drawer File Cabinet,Office Furniture,Middle East,2,378.0,270.0,108.0,BluePeak Systems
+INV-20250907,2025-08-17,Moleskine Classic Leather Journal,Office Supplies,Latin America,1,21.6,8.5,13.1,Alpha Core Dynamics
+INV-20250908,2026-04-29,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,65.0,52.0,13.0,Quantum Innovations Inc
+INV-20250909,2026-05-17,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,3,819.0,525.0,294.0,BluePeak Systems
+INV-20250910,2026-05-30,Jarvis Dual-Motor Standing Desk,Office Furniture,Asia Pacific,1,750.0,520.0,230.0,Nexus Cloud Solutions
+INV-20250911,2026-04-06,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,270.9,120.0,150.9,Hyperion Energy
+INV-20250912,2025-09-18,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2499.0,1850.0,649.0,BluePeak Systems
+INV-20250913,2026-01-23,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,1,80.75,36.0,44.75,Hyperion Energy
+INV-20250914,2025-12-27,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,65.0,52.0,13.0,Echo Interactive Labs
+INV-20250915,2026-02-06,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,1,28.0,9.0,19.0,Omni Retail Networks
+INV-20250916,2026-06-04,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,35.0,14.0,21.0,Horizon Financial Partners
+INV-20250917,2026-08-26,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,1,33.25,14.0,19.25,Horizon Financial Partners
+INV-20250918,2025-12-20,Anker 100W USB-C GaN Charger,Electronics,North America,3,168.15,72.0,96.15,Omni Retail Networks
+INV-20250919,2025-09-24,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,2,358.2,220.0,138.2,Quantum Innovations Inc
+INV-20250920,2026-05-19,Breathable Tech Polo Shirt,Fashion & Apparel,North America,5,306.0,110.0,196.0,Omni Retail Networks
+INV-20250921,2026-06-05,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,3,510.3,405.0,105.3,Ironclad Cyber Security
+INV-20250922,2026-05-03,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Middle East,1,899.0,620.0,279.0,Synergy Design Co
+INV-20250923,2026-05-11,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,3,348.3,180.0,168.3,Apex Global Logistics
+INV-20250924,2026-03-04,Premium Merino Wool Blazer,Fashion & Apparel,North America,3,840.0,360.0,480.0,Vanguard Health Technologies
+INV-20250925,2026-05-07,Moleskine Classic Leather Journal,Office Supplies,Middle East,1,24.0,8.5,15.5,Echo Interactive Labs
+INV-20250926,2026-06-08,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2374.05,1850.0,524.05,Nexus Cloud Solutions
+INV-20250927,2026-05-22,Breathable Tech Polo Shirt,Fashion & Apparel,Latin America,1,64.6,22.0,42.6,Starlight Media Group
+INV-20250928,2026-02-18,Heavy-Duty Desktop Stapler,Office Supplies,Middle East,1,31.5,14.0,17.5,Vanguard Health Technologies
+INV-20250929,2026-02-21,Anker 100W USB-C GaN Charger,Electronics,Europe,1,53.1,24.0,29.1,Hyperion Energy
+INV-20250930,2025-10-21,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,8,6000.0,4160.0,1840.0,Alpha Core Dynamics
+INV-20250931,2025-12-13,Logitech MX Master 3S Mouse,Electronics,Asia Pacific,2,178.2,96.0,82.2,Hyperion Energy
+INV-20250932,2025-10-30,Anker 100W USB-C GaN Charger,Electronics,North America,1,59.0,24.0,35.0,Echo Interactive Labs
+INV-20250933,2026-07-03,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,2,1708.1,1240.0,468.1,Starlight Media Group
+INV-20250934,2026-05-29,HEPA Air Purifier Pro Tower,Home & Lifestyle,Europe,3,780.0,525.0,255.0,BluePeak Systems
+INV-20250935,2025-09-14,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,1,26.6,9.0,17.6,Starlight Media Group
+INV-20250936,2026-04-02,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,2,66.5,28.0,38.5,Quantum Innovations Inc
+INV-20250937,2026-10-03,Mobile 3-Drawer File Cabinet,Office Furniture,North America,1,189.0,135.0,54.0,Summit Ventures Ltd
+INV-20250938,2026-07-28,"High-Grade Whiteboard 48x36""",Office Supplies,North America,5,725.0,400.0,325.0,Omni Retail Networks
+INV-20250939,2026-05-17,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,209.0,95.0,114.0,Pinnacle Capital
+INV-20250940,2026-04-21,Mobile 3-Drawer File Cabinet,Office Furniture,North America,3,510.3,405.0,105.3,Summit Ventures Ltd
+INV-20250941,2026-04-09,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,2,798.0,480.0,318.0,BluePeak Systems
+INV-20250942,2026-02-03,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,1,943.95,620.0,323.95,Synergy Design Co
+INV-20250943,2025-09-20,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,209.0,95.0,114.0,Synergy Design Co
+INV-20250944,2026-01-11,Herman Miller Aeron Chair,Office Furniture,North America,2,2625.0,1780.0,845.0,Pinnacle Capital
+INV-20250945,2026-03-30,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,3,969.0,450.0,519.0,Synergy Design Co
+INV-20250946,2026-03-14,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Europe,1,89.0,38.0,51.0,Ironclad Cyber Security
+INV-20250947,2025-12-21,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,5,995.0,550.0,445.0,Pinnacle Capital
+INV-20250948,2025-10-02,Anker 100W USB-C GaN Charger,Electronics,North America,1,53.1,24.0,29.1,Quantum Innovations Inc
+INV-20250949,2026-03-06,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,560.0,240.0,320.0,Hyperion Energy
+INV-20250950,2025-09-27,Logitech MX Master 3S Mouse,Electronics,North America,2,178.2,96.0,82.2,Starlight Media Group
+INV-20250951,2026-01-07,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,980.0,710.0,270.0,Echo Interactive Labs
+INV-20250952,2025-08-29,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,189.05,110.0,79.05,Starlight Media Group
+INV-20250953,2026-05-18,Oak Solid Wood Executive Desk,Office Furniture,Latin America,5,7612.5,5250.0,2362.5,Ironclad Cyber Security
+INV-20250954,2026-05-18,Moleskine Classic Leather Journal,Office Supplies,North America,1,25.2,8.5,16.7,Echo Interactive Labs
+INV-20250955,2026-05-30,Moleskine Classic Leather Journal,Office Supplies,Europe,1,25.2,8.5,16.7,Pinnacle Capital
+INV-20250956,2026-05-18,Steelcase Gesture Ergonomic Stool,Office Furniture,Latin America,1,980.0,710.0,270.0,Ironclad Cyber Security
+INV-20250957,2025-12-26,Moleskine Classic Leather Journal,Office Supplies,North America,1,24.0,8.5,15.5,Nexus Cloud Solutions
+INV-20250958,2025-10-23,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2249.1,1850.0,399.1,Hyperion Energy
+INV-20250959,2026-04-23,Premium Merino Wool Blazer,Fashion & Apparel,North America,5,1260.0,600.0,660.0,Synergy Design Co
+INV-20250960,2026-09-27,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,980.0,710.0,270.0,Nexus Cloud Solutions
+INV-20250961,2025-11-19,HEPA Air Purifier Pro Tower,Home & Lifestyle,North America,1,273.0,175.0,98.0,Vanguard Health Technologies
+INV-20250962,2026-08-16,"High-Grade Whiteboard 48x36""",Office Supplies,North America,2,261.0,160.0,101.0,Starlight Media Group
+INV-20250963,2026-03-19,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,2,58.8,18.0,40.8,Quantum Innovations Inc
+INV-20250964,2026-10-02,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,2,245.1,120.0,125.1,Alpha Core Dynamics
+INV-20250965,2026-10-03,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,980.0,710.0,270.0,Summit Ventures Ltd
+INV-20250966,2025-10-10,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,2,837.9,480.0,357.9,BluePeak Systems
+INV-20250967,2026-04-23,Moleskine Classic Leather Journal,Office Supplies,North America,1,24.0,8.5,15.5,Alpha Core Dynamics
+INV-20250968,2025-08-26,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,199.0,110.0,89.0,Summit Ventures Ltd
+INV-20250969,2026-03-27,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,2,1960.0,1420.0,540.0,Echo Interactive Labs
+INV-20250970,2025-12-04,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,1,379.05,240.0,139.05,Ironclad Cyber Security
+INV-20250971,2026-04-09,HEPA Air Purifier Pro Tower,Home & Lifestyle,Asia Pacific,2,520.0,350.0,170.0,Vanguard Health Technologies
+INV-20250972,2025-10-28,Oak Solid Wood Executive Desk,Office Furniture,North America,1,1305.0,1050.0,255.0,Hyperion Energy
+INV-20250973,2025-11-21,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,4,1516.2,960.0,556.2,Starlight Media Group
+INV-20250974,2026-09-12,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,2,50.4,18.0,32.4,Quantum Innovations Inc
+INV-20250975,2026-08-27,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Middle East,10,1290.0,600.0,690.0,Horizon Financial Partners
+INV-20250976,2026-05-08,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,2,48.0,17.0,31.0,Quantum Innovations Inc
+INV-20250977,2026-01-27,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,35.0,14.0,21.0,BluePeak Systems
+INV-20250978,2025-10-16,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Latin America,1,84.55,38.0,46.55,Summit Ventures Ltd
+INV-20250979,2026-07-22,Anker 100W USB-C GaN Charger,Electronics,North America,1,59.0,24.0,35.0,Apex Global Logistics
+INV-20250980,2025-08-22,Herman Miller Aeron Chair,Office Furniture,Europe,1,1187.5,890.0,297.5,Vanguard Health Technologies
+INV-20250981,2025-12-17,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,220.0,95.0,125.0,Hyperion Energy
+INV-20250982,2026-08-02,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,2,418.0,190.0,228.0,Ironclad Cyber Security
+INV-20250983,2026-04-27,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,1,135.45,60.0,75.45,Starlight Media Group
+INV-20250984,2026-07-01,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1377.5,1050.0,327.5,Hyperion Energy
+INV-20250985,2026-09-24,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,306.0,150.0,156.0,Summit Ventures Ltd
+INV-20250986,2026-09-22,Herman Miller Aeron Chair,Office Furniture,North America,2,2375.0,1780.0,595.0,Summit Ventures Ltd
+INV-20250987,2025-11-21,HEPA Air Purifier Pro Tower,Home & Lifestyle,Latin America,1,234.0,175.0,59.0,Echo Interactive Labs
+INV-20250988,2025-09-04,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,1,170.1,135.0,35.1,BluePeak Systems
+INV-20250989,2026-04-22,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,280.0,120.0,160.0,Echo Interactive Labs
+INV-20250990,2026-04-11,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,294.0,120.0,174.0,Echo Interactive Labs
+INV-20250991,2025-11-02,Premium Merino Wool Blazer,Fashion & Apparel,North America,1,266.0,120.0,146.0,Summit Ventures Ltd
+INV-20250992,2026-09-16,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,504.0,240.0,264.0,Apex Global Logistics
+INV-20250993,2026-06-28,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,3,280.35,114.0,166.35,Apex Global Logistics
+INV-20250994,2026-07-18,Herman Miller Aeron Chair,Office Furniture,North America,5,5625.0,4450.0,1175.0,Quantum Innovations Inc
+INV-20250995,2026-09-11,Anker 100W USB-C GaN Charger,Electronics,Europe,2,123.9,48.0,75.9,Ironclad Cyber Security
+INV-20250996,2026-01-26,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,1029.0,710.0,319.0,Pinnacle Capital
+INV-20250997,2025-10-20,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,1,85.0,36.0,49.0,Omni Retail Networks
+INV-20250998,2025-10-04,Anker 100W USB-C GaN Charger,Electronics,North America,1,53.1,24.0,29.1,Horizon Financial Partners
+INV-20250999,2026-08-09,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,2,170.0,72.0,98.0,Alpha Core Dynamics
+INV-20251000,2025-09-20,Mobile 3-Drawer File Cabinet,Office Furniture,North America,1,189.0,135.0,54.0,Echo Interactive Labs
+INV-20251001,2025-09-24,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,340.0,150.0,190.0,Synergy Design Co
+INV-20251002,2026-03-15,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,3,567.0,405.0,162.0,Synergy Design Co
+INV-20251003,2026-08-25,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Apex Global Logistics
+INV-20251004,2025-10-03,Sony WH-1000XM5 Wireless Headphones,Electronics,Middle East,1,399.0,240.0,159.0,Summit Ventures Ltd
+INV-20251005,2026-05-11,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,588.0,240.0,348.0,Horizon Financial Partners
+INV-20251006,2026-09-02,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Middle East,2,680.0,300.0,380.0,Summit Ventures Ltd
+INV-20251007,2026-07-26,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,116.1,60.0,56.1,Vanguard Health Technologies
+INV-20251008,2026-05-23,Logitech MX Master 3S Mouse,Electronics,North America,1,94.05,48.0,46.05,Starlight Media Group
+INV-20251009,2026-03-29,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,5,403.75,180.0,223.75,Alpha Core Dynamics
+INV-20251010,2026-02-21,Premium Merino Wool Blazer,Fashion & Apparel,Middle East,1,252.0,120.0,132.0,Vanguard Health Technologies
+INV-20251011,2026-05-30,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,160.2,76.0,84.2,Horizon Financial Partners
+INV-20251012,2025-12-23,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,116.1,60.0,56.1,Echo Interactive Labs
+INV-20251013,2026-08-21,Moleskine Classic Leather Journal,Office Supplies,Middle East,1,22.8,8.5,14.3,Apex Global Logistics
+INV-20251014,2026-01-16,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,68.0,22.0,46.0,Starlight Media Group
+INV-20251015,2026-09-14,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,3,168.15,72.0,96.15,Apex Global Logistics
+INV-20251016,2026-06-03,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,280.0,120.0,160.0,Alpha Core Dynamics
+INV-20251017,2025-12-28,Moleskine Classic Leather Journal,Office Supplies,North America,1,25.2,8.5,16.7,Starlight Media Group
+INV-20251018,2026-01-15,Herman Miller Aeron Chair,Office Furniture,North America,1,1125.0,890.0,235.0,Hyperion Energy
+INV-20251019,2025-09-23,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Latin America,2,396.0,190.0,206.0,Echo Interactive Labs
+INV-20251020,2026-08-03,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,2,1798.0,1240.0,558.0,Synergy Design Co
+INV-20251021,2026-08-24,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,3,183.6,66.0,117.6,Apex Global Logistics
+INV-20251022,2026-09-13,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,1,359.1,240.0,119.1,Synergy Design Co
+INV-20251023,2026-09-13,"High-Grade Whiteboard 48x36""",Office Supplies,Latin America,1,152.25,80.0,72.25,Quantum Innovations Inc
+INV-20251024,2026-02-26,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2623.95,1850.0,773.95,Pinnacle Capital
+INV-20251025,2025-10-30,Dell XPS 15 OLED,Electronics,North America,1,1799.0,1350.0,449.0,Alpha Core Dynamics
+INV-20251026,2026-03-04,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,8,1671.6,880.0,791.6,Echo Interactive Labs
+INV-20251027,2026-03-24,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,198.0,95.0,103.0,Horizon Financial Partners
+INV-20251028,2026-04-15,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,2,398.0,220.0,178.0,Quantum Innovations Inc
+INV-20251029,2026-03-07,Premium Merino Wool Blazer,Fashion & Apparel,North America,2,560.0,240.0,320.0,Quantum Innovations Inc
+INV-20251030,2025-11-24,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,1,135.45,60.0,75.45,Summit Ventures Ltd
+INV-20251031,2026-05-10,Anker 100W USB-C GaN Charger,Electronics,Europe,1,59.0,24.0,35.0,Echo Interactive Labs
+INV-20251032,2026-07-31,Jarvis Dual-Motor Standing Desk,Office Furniture,Asia Pacific,4,3000.0,2080.0,920.0,Vanguard Health Technologies
+INV-20251033,2026-02-18,Logitech MX Master 3S Mouse,Electronics,Europe,1,94.05,48.0,46.05,Nexus Cloud Solutions
+INV-20251034,2026-09-13,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,1,179.55,135.0,44.55,Apex Global Logistics
+INV-20251035,2026-03-29,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,2,122.4,44.0,78.4,Hyperion Energy
+INV-20251036,2025-11-25,Dell XPS 15 OLED,Electronics,Latin America,2,3598.0,2700.0,898.0,Horizon Financial Partners
+INV-20251037,2025-10-11,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,2,258.0,120.0,138.0,Quantum Innovations Inc
+INV-20251038,2026-10-08,Breathable Tech Polo Shirt,Fashion & Apparel,Latin America,1,64.6,22.0,42.6,Omni Retail Networks
+INV-20251039,2026-04-02,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,1,189.05,130.0,59.05,BluePeak Systems
+INV-20251040,2025-11-27,Anker 100W USB-C GaN Charger,Electronics,Asia Pacific,2,112.1,48.0,64.1,Horizon Financial Partners
+INV-20251041,2025-10-26,Premium Merino Wool Blazer,Fashion & Apparel,Europe,2,560.0,240.0,320.0,Echo Interactive Labs
+INV-20251042,2026-05-11,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,1,28.0,9.0,19.0,Pinnacle Capital
+INV-20251043,2026-08-06,Dell XPS 15 OLED,Electronics,North America,2,3598.0,2700.0,898.0,Hyperion Energy
+INV-20251044,2025-09-18,Moleskine Classic Leather Journal,Office Supplies,Europe,1,22.8,8.5,14.3,Apex Global Logistics
+INV-20251045,2026-02-15,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,3,255.0,108.0,147.0,Pinnacle Capital
+INV-20251046,2026-02-28,Steelcase Gesture Ergonomic Stool,Office Furniture,Latin America,1,882.0,710.0,172.0,Pinnacle Capital
+INV-20251047,2026-01-23,Recycled Laser Printer Paper (10 Reams),Office Supplies,Middle East,1,68.25,52.0,16.25,Quantum Innovations Inc
+INV-20251048,2026-04-28,Premium Merino Wool Blazer,Fashion & Apparel,North America,5,1470.0,600.0,870.0,Horizon Financial Partners
+INV-20251049,2026-05-13,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,179.1,130.0,49.1,Horizon Financial Partners
+INV-20251050,2026-02-08,Ergonomic Gel Wrist Rest Pad,Office Supplies,Asia Pacific,2,53.2,18.0,35.2,Apex Global Logistics
+INV-20251051,2026-01-03,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,3,969.0,450.0,519.0,Summit Ventures Ltd
+INV-20251052,2025-08-30,Ergonomic Gel Wrist Rest Pad,Office Supplies,Latin America,5,133.0,45.0,88.0,Omni Retail Networks
+INV-20251053,2026-03-04,Herman Miller Aeron Chair,Office Furniture,North America,2,2500.0,1780.0,720.0,Synergy Design Co
+INV-20251054,2026-06-24,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,4,356.0,152.0,204.0,Pinnacle Capital
+INV-20251055,2026-03-21,"High-Grade Whiteboard 48x36""",Office Supplies,North America,8,1218.0,640.0,578.0,Starlight Media Group
+INV-20251056,2025-11-28,Oak Solid Wood Executive Desk,Office Furniture,Europe,2,3045.0,2100.0,945.0,Starlight Media Group
+INV-20251057,2025-10-24,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,1,294.0,120.0,174.0,Horizon Financial Partners
+INV-20251058,2026-09-13,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,1,208.95,110.0,98.95,Synergy Design Co
+INV-20251059,2026-05-14,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,5,4495.0,3100.0,1395.0,Summit Ventures Ltd
+INV-20251060,2025-10-28,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,2,1708.1,1240.0,468.1,Synergy Design Co
+INV-20251061,2026-03-29,"High-Grade Whiteboard 48x36""",Office Supplies,Middle East,2,275.5,160.0,115.5,BluePeak Systems
+INV-20251062,2025-10-21,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,1,208.95,110.0,98.95,Quantum Innovations Inc
+INV-20251063,2026-06-24,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,68.0,22.0,46.0,Alpha Core Dynamics
+INV-20251064,2025-09-24,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,2,2250.0,1780.0,470.0,Vanguard Health Technologies
+INV-20251065,2026-04-12,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,2,378.1,220.0,158.1,Alpha Core Dynamics
+INV-20251066,2026-04-14,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,1,899.0,620.0,279.0,Ironclad Cyber Security
+INV-20251067,2025-08-22,Herman Miller Aeron Chair,Office Furniture,North America,4,4500.0,3560.0,940.0,Hyperion Energy
+INV-20251068,2026-09-06,Herman Miller Aeron Chair,Office Furniture,Asia Pacific,1,1250.0,890.0,360.0,Horizon Financial Partners
+INV-20251069,2026-08-02,Moleskine Classic Leather Journal,Office Supplies,Latin America,1,21.6,8.5,13.1,Ironclad Cyber Security
+INV-20251070,2025-09-05,Herman Miller Aeron Chair,Office Furniture,Europe,2,2250.0,1780.0,470.0,Hyperion Energy
+INV-20251071,2026-08-30,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,186.9,76.0,110.9,Alpha Core Dynamics
+INV-20251072,2026-09-21,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,65.0,52.0,13.0,Echo Interactive Labs
+INV-20251073,2025-09-05,Moleskine Classic Leather Journal,Office Supplies,Europe,4,96.0,34.0,62.0,Synergy Design Co
+INV-20251074,2025-09-04,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,2,136.5,104.0,32.5,Echo Interactive Labs
+INV-20251075,2025-11-20,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Europe,1,116.1,60.0,56.1,Apex Global Logistics
+INV-20251076,2026-04-08,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,1,931.0,710.0,221.0,BluePeak Systems
+INV-20251077,2026-05-06,Breathable Tech Polo Shirt,Fashion & Apparel,Latin America,4,244.8,88.0,156.8,Echo Interactive Labs
+INV-20251078,2026-04-28,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,1,357.0,150.0,207.0,Echo Interactive Labs
+INV-20251079,2026-03-14,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Europe,1,199.0,130.0,69.0,Nexus Cloud Solutions
+INV-20251080,2026-08-14,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,4,3236.4,2480.0,756.4,Synergy Design Co
+INV-20251081,2026-07-13,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,4,1596.0,960.0,636.0,Echo Interactive Labs
+INV-20251082,2025-10-12,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Asia Pacific,2,378.1,260.0,118.1,Quantum Innovations Inc
+INV-20251083,2026-08-22,Sony WH-1000XM5 Wireless Headphones,Electronics,Europe,3,1256.85,720.0,536.85,Nexus Cloud Solutions
+INV-20251084,2026-05-23,Breathable Tech Polo Shirt,Fashion & Apparel,Middle East,1,68.0,22.0,46.0,Nexus Cloud Solutions
+INV-20251085,2025-10-30,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1450.0,1050.0,400.0,Pinnacle Capital
+INV-20251086,2026-03-17,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,1,809.1,620.0,189.1,Apex Global Logistics
+INV-20251087,2025-10-21,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,5,4900.0,3550.0,1350.0,Quantum Innovations Inc
+INV-20251088,2026-04-06,Breathable Tech Polo Shirt,Fashion & Apparel,Asia Pacific,1,61.2,22.0,39.2,Apex Global Logistics
+INV-20251089,2026-04-24,Premium Merino Wool Blazer,Fashion & Apparel,Asia Pacific,1,294.0,120.0,174.0,Alpha Core Dynamics
+INV-20251090,2026-03-29,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,89.25,36.0,53.25,Nexus Cloud Solutions
+INV-20251091,2026-01-04,"MacBook Pro M3 Max 16""",Electronics,North America,2,5247.9,3700.0,1547.9,Summit Ventures Ltd
+INV-20251092,2025-09-12,Anker 100W USB-C GaN Charger,Electronics,North America,2,118.0,48.0,70.0,Starlight Media Group
+INV-20251093,2026-06-06,Keychron Q1 Pro Mechanical Keyboard,Electronics,Asia Pacific,3,567.15,330.0,237.15,Pinnacle Capital
+INV-20251094,2025-10-09,Oak Solid Wood Executive Desk,Office Furniture,Latin America,1,1450.0,1050.0,400.0,Apex Global Logistics
+INV-20251095,2026-07-19,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,2,1887.9,1240.0,647.9,Alpha Core Dynamics
+INV-20251096,2026-04-05,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,2,418.0,190.0,228.0,Starlight Media Group
+INV-20251097,2026-01-27,Dell XPS 15 OLED,Electronics,North America,1,1619.1,1350.0,269.1,BluePeak Systems
+INV-20251098,2026-05-23,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,1,359.1,240.0,119.1,Omni Retail Networks
+INV-20251099,2026-01-02,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,179.1,110.0,69.1,Omni Retail Networks
+INV-20251100,2026-06-24,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,68.25,52.0,16.25,Horizon Financial Partners
+INV-20251101,2025-09-28,Smart LED Ambient Desk Light Bar,Home & Lifestyle,Middle East,1,93.45,38.0,55.45,Summit Ventures Ltd
+INV-20251102,2026-03-21,HEPA Air Purifier Pro Tower,Home & Lifestyle,Middle East,2,494.0,350.0,144.0,BluePeak Systems
+INV-20251103,2026-02-12,Jarvis Dual-Motor Standing Desk,Office Furniture,Europe,4,3150.0,2080.0,1070.0,Alpha Core Dynamics
+INV-20251104,2026-07-04,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Europe,1,220.0,95.0,125.0,Echo Interactive Labs
+INV-20251105,2025-11-22,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,68.0,22.0,46.0,BluePeak Systems
+INV-20251106,2026-08-27,Moleskine Classic Leather Journal,Office Supplies,Europe,3,75.6,25.5,50.1,Quantum Innovations Inc
+INV-20251107,2026-02-10,"High-Grade Whiteboard 48x36""",Office Supplies,Europe,2,290.0,160.0,130.0,Vanguard Health Technologies
+INV-20251108,2026-01-06,"MacBook Pro M3 Max 16""",Electronics,Europe,1,2499.0,1850.0,649.0,Echo Interactive Labs
+INV-20251109,2026-01-27,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,3,2940.0,2130.0,810.0,Summit Ventures Ltd
+INV-20251110,2026-08-20,Everyday Canvas Laptop Backpack,Fashion & Apparel,North America,2,170.0,72.0,98.0,Nexus Cloud Solutions
+INV-20251111,2026-02-04,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,4,3236.4,2480.0,756.4,Omni Retail Networks
+INV-20251112,2025-10-23,Heavy-Duty Desktop Stapler,Office Supplies,Asia Pacific,1,31.5,14.0,17.5,Pinnacle Capital
+INV-20251113,2026-09-20,Premium Merino Wool Blazer,Fashion & Apparel,Latin America,3,840.0,360.0,480.0,Ironclad Cyber Security
+INV-20251114,2026-07-28,Recycled Laser Printer Paper (10 Reams),Office Supplies,North America,1,68.25,52.0,16.25,Echo Interactive Labs
+INV-20251115,2026-01-31,"MacBook Pro M3 Max 16""",Electronics,North America,3,7122.15,5550.0,1572.15,Pinnacle Capital
+INV-20251116,2025-08-30,Sony WH-1000XM5 Wireless Headphones,Electronics,Middle East,1,359.1,240.0,119.1,BluePeak Systems
+INV-20251117,2026-06-03,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Europe,2,680.0,300.0,380.0,Starlight Media Group
+INV-20251118,2026-09-03,Breathable Tech Polo Shirt,Fashion & Apparel,North America,1,64.6,22.0,42.6,Hyperion Energy
+INV-20251119,2025-09-28,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,199.0,130.0,69.0,Nexus Cloud Solutions
+INV-20251120,2025-12-03,Mobile 3-Drawer File Cabinet,Office Furniture,Europe,2,378.0,270.0,108.0,BluePeak Systems
+INV-20251121,2026-09-17,Logitech MX Master 3S Mouse,Electronics,North America,1,99.0,48.0,51.0,Apex Global Logistics
+INV-20251122,2026-04-19,Moleskine Classic Leather Journal,Office Supplies,Europe,4,96.0,34.0,62.0,Hyperion Energy
+INV-20251123,2026-08-25,Anker 100W USB-C GaN Charger,Electronics,North America,4,224.2,96.0,128.2,Ironclad Cyber Security
+INV-20251124,2025-10-04,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,3,406.35,180.0,226.35,Hyperion Energy
+INV-20251125,2026-08-20,Everyday Canvas Laptop Backpack,Fashion & Apparel,Middle East,1,76.5,36.0,40.5,Horizon Financial Partners
+INV-20251126,2025-08-17,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Latin America,1,199.0,130.0,69.0,Quantum Innovations Inc
+INV-20251127,2025-09-28,Everyday Canvas Laptop Backpack,Fashion & Apparel,Asia Pacific,1,85.0,36.0,49.0,Omni Retail Networks
+INV-20251128,2026-08-31,Logitech MX Master 3S Mouse,Electronics,Europe,1,103.95,48.0,55.95,Pinnacle Capital
+INV-20251129,2025-11-30,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,1,129.0,60.0,69.0,Synergy Design Co
+INV-20251130,2026-09-14,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,1,980.0,710.0,270.0,Vanguard Health Technologies
+INV-20251131,2025-10-12,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,1,787.5,520.0,267.5,BluePeak Systems
+INV-20251132,2026-05-19,Premium Merino Wool Blazer,Fashion & Apparel,Europe,1,266.0,120.0,146.0,Horizon Financial Partners
+INV-20251133,2026-09-30,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,1,750.0,520.0,230.0,Echo Interactive Labs
+INV-20251134,2026-02-04,"Samsung 34"" Curved Ultrawide Monitor",Electronics,North America,2,1798.0,1240.0,558.0,Alpha Core Dynamics
+INV-20251135,2026-07-26,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,179.1,110.0,69.1,Synergy Design Co
+INV-20251136,2025-11-14,Dell XPS 15 OLED,Electronics,North America,2,3777.9,2700.0,1077.9,Nexus Cloud Solutions
+INV-20251137,2026-03-31,Italian Full-Grain Leather Briefcase,Fashion & Apparel,Asia Pacific,2,646.0,300.0,346.0,Echo Interactive Labs
+INV-20251138,2026-09-07,Oak Solid Wood Executive Desk,Office Furniture,Asia Pacific,2,3045.0,2100.0,945.0,Echo Interactive Labs
+INV-20251139,2026-09-10,Sony WH-1000XM5 Wireless Headphones,Electronics,Middle East,1,399.0,240.0,159.0,Hyperion Energy
+INV-20251140,2026-08-07,Sony WH-1000XM5 Wireless Headphones,Electronics,Asia Pacific,1,359.1,240.0,119.1,Synergy Design Co
+INV-20251141,2026-09-11,Steelcase Gesture Ergonomic Stool,Office Furniture,Asia Pacific,1,980.0,710.0,270.0,Echo Interactive Labs
+INV-20251142,2026-06-26,Herman Miller Aeron Chair,Office Furniture,North America,1,1187.5,890.0,297.5,Synergy Design Co
+INV-20251143,2026-07-21,Ergonomic Gel Wrist Rest Pad,Office Supplies,North America,1,26.6,9.0,17.6,Synergy Design Co
+INV-20251144,2026-04-15,Moleskine Classic Leather Journal,Office Supplies,Europe,1,21.6,8.5,13.1,Quantum Innovations Inc
+INV-20251145,2026-09-12,Moleskine Classic Leather Journal,Office Supplies,Asia Pacific,1,25.2,8.5,16.7,BluePeak Systems
+INV-20251146,2026-10-07,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,2,398.0,220.0,178.0,Nexus Cloud Solutions
+INV-20251147,2026-09-24,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1305.0,1050.0,255.0,Quantum Innovations Inc
+INV-20251148,2026-06-28,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,1,28.0,9.0,19.0,Horizon Financial Partners
+INV-20251149,2025-11-29,Heavy-Duty Desktop Stapler,Office Supplies,North America,3,110.25,42.0,68.25,Vanguard Health Technologies
+INV-20251150,2026-06-01,"High-Grade Whiteboard 48x36""",Office Supplies,Asia Pacific,3,456.75,240.0,216.75,Nexus Cloud Solutions
+INV-20251151,2026-07-23,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,North America,1,208.95,130.0,78.95,Pinnacle Capital
+INV-20251152,2026-04-09,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,35.0,14.0,21.0,Alpha Core Dynamics
+INV-20251153,2025-09-19,Moleskine Classic Leather Journal,Office Supplies,North America,2,50.4,17.0,33.4,Nexus Cloud Solutions
+INV-20251154,2026-04-25,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,2,258.0,120.0,138.0,Vanguard Health Technologies
+INV-20251155,2026-06-08,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,4,1596.0,960.0,636.0,Starlight Media Group
+INV-20251156,2026-04-03,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,232.2,120.0,112.2,Starlight Media Group
+INV-20251157,2025-11-28,Breathable Tech Polo Shirt,Fashion & Apparel,Europe,2,129.2,44.0,85.2,Horizon Financial Partners
+INV-20251158,2026-07-28,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,882.0,710.0,172.0,Synergy Design Co
+INV-20251159,2025-09-29,Nespresso VertuoPlus Coffee Machine,Home & Lifestyle,Middle East,2,417.9,260.0,157.9,Vanguard Health Technologies
+INV-20251160,2026-01-12,Recycled Laser Printer Paper (10 Reams),Office Supplies,Europe,1,68.25,52.0,16.25,Starlight Media Group
+INV-20251161,2026-10-09,Dell XPS 15 OLED,Electronics,North America,8,14392.0,10800.0,3592.0,Summit Ventures Ltd
+INV-20251162,2026-03-24,Steelcase Gesture Ergonomic Stool,Office Furniture,Latin America,2,1764.0,1420.0,344.0,Horizon Financial Partners
+INV-20251163,2026-03-10,Italian Full-Grain Leather Briefcase,Fashion & Apparel,North America,1,357.0,150.0,207.0,Nexus Cloud Solutions
+INV-20251164,2025-10-25,Anker 100W USB-C GaN Charger,Electronics,Europe,1,53.1,24.0,29.1,Ironclad Cyber Security
+INV-20251165,2026-01-09,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,10,1890.0,1350.0,540.0,Starlight Media Group
+INV-20251166,2025-08-23,Keychron Q1 Pro Mechanical Keyboard,Electronics,North America,1,179.1,110.0,69.1,Pinnacle Capital
+INV-20251167,2025-09-27,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,76.5,36.0,40.5,Starlight Media Group
+INV-20251168,2026-06-20,Moleskine Classic Leather Journal,Office Supplies,Latin America,5,126.0,42.5,83.5,Echo Interactive Labs
+INV-20251169,2026-05-24,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Europe,3,2427.3,1860.0,567.3,Nexus Cloud Solutions
+INV-20251170,2026-06-20,Mobile 3-Drawer File Cabinet,Office Furniture,North America,1,170.1,135.0,35.1,Nexus Cloud Solutions
+INV-20251171,2025-12-30,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,93.45,38.0,55.45,Summit Ventures Ltd
+INV-20251172,2026-06-01,All-Weather Waterproof Commuter Parka,Fashion & Apparel,North America,1,209.0,95.0,114.0,Apex Global Logistics
+INV-20251173,2025-09-24,Logitech MX Master 3S Mouse,Electronics,Europe,1,103.95,48.0,55.95,Echo Interactive Labs
+INV-20251174,2026-05-06,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,135.45,60.0,75.45,Ironclad Cyber Security
+INV-20251175,2026-08-29,Sony WH-1000XM5 Wireless Headphones,Electronics,North America,2,798.0,480.0,318.0,Pinnacle Capital
+INV-20251176,2026-06-07,Everyday Canvas Laptop Backpack,Fashion & Apparel,Europe,1,85.0,36.0,49.0,Hyperion Energy
+INV-20251177,2026-04-12,Oak Solid Wood Executive Desk,Office Furniture,Europe,1,1305.0,1050.0,255.0,Apex Global Logistics
+INV-20251178,2026-02-11,All-Weather Waterproof Commuter Parka,Fashion & Apparel,Asia Pacific,5,1045.0,475.0,570.0,Nexus Cloud Solutions
+INV-20251179,2026-06-16,Steelcase Gesture Ergonomic Stool,Office Furniture,North America,2,2058.0,1420.0,638.0,Echo Interactive Labs
+INV-20251180,2026-06-07,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,1,750.0,520.0,230.0,Ironclad Cyber Security
+INV-20251181,2026-08-27,Everyday Canvas Laptop Backpack,Fashion & Apparel,Middle East,2,161.5,72.0,89.5,Hyperion Energy
+INV-20251182,2025-09-23,Heavy-Duty Desktop Stapler,Office Supplies,North America,3,99.75,42.0,57.75,Summit Ventures Ltd
+INV-20251183,2026-01-02,Jarvis Dual-Motor Standing Desk,Office Furniture,North America,3,2250.0,1560.0,690.0,BluePeak Systems
+INV-20251184,2026-06-13,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,2,160.2,76.0,84.2,Starlight Media Group
+INV-20251185,2026-09-19,Mobile 3-Drawer File Cabinet,Office Furniture,Asia Pacific,2,340.2,270.0,70.2,BluePeak Systems
+INV-20251186,2025-08-31,"Samsung 34"" Curved Ultrawide Monitor",Electronics,Asia Pacific,1,899.0,620.0,279.0,Omni Retail Networks
+INV-20251187,2025-11-01,Keychron Q1 Pro Mechanical Keyboard,Electronics,Europe,3,537.3,330.0,207.3,Omni Retail Networks
+INV-20251188,2026-03-28,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,258.0,120.0,138.0,Pinnacle Capital
+INV-20251189,2026-02-07,Anker 100W USB-C GaN Charger,Electronics,Europe,1,56.05,24.0,32.05,Omni Retail Networks
+INV-20251190,2025-11-08,Ceramic Self-Heating Smart Mug,Home & Lifestyle,Asia Pacific,1,116.1,60.0,56.1,Apex Global Logistics
+INV-20251191,2026-05-14,Steelcase Gesture Ergonomic Stool,Office Furniture,Europe,1,882.0,710.0,172.0,Hyperion Energy
+INV-20251192,2026-03-25,Heavy-Duty Desktop Stapler,Office Supplies,North America,1,31.5,14.0,17.5,Summit Ventures Ltd
+INV-20251193,2026-07-30,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,5,140.0,45.0,95.0,Summit Ventures Ltd
+INV-20251194,2026-03-24,Premium Merino Wool Blazer,Fashion & Apparel,Europe,2,532.0,240.0,292.0,Omni Retail Networks
+INV-20251195,2025-10-04,Oak Solid Wood Executive Desk,Office Furniture,North America,1,1522.5,1050.0,472.5,Hyperion Energy
+INV-20251196,2026-09-02,Ergonomic Gel Wrist Rest Pad,Office Supplies,Europe,1,29.4,9.0,20.4,Pinnacle Capital
+INV-20251197,2026-07-27,Ceramic Self-Heating Smart Mug,Home & Lifestyle,North America,2,258.0,120.0,138.0,Vanguard Health Technologies
+INV-20251198,2025-08-19,Oak Solid Wood Executive Desk,Office Furniture,Europe,3,4350.0,3150.0,1200.0,Pinnacle Capital
+INV-20251199,2026-07-31,"High-Grade Whiteboard 48x36""",Office Supplies,North America,1,145.0,80.0,65.0,Quantum Innovations Inc
+INV-20251200,2025-09-01,Smart LED Ambient Desk Light Bar,Home & Lifestyle,North America,1,89.0,38.0,51.0,Horizon Financial Partners

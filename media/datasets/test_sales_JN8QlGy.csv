@@ -1,0 +1,4 @@
+Order_Date,Order_ID,Product,Category,Region,Sales,Profit,Quantity
+2025-01-15,ORD-101,Ultra Keyboard,Electronics,North,250.00,75.00,2
+2025-01-16,ORD-102,Office Desk,Furniture,West,800.00,220.00,1
+2025-01-17,ORD-103,Pen Set,Supplies,East,45.00,15.00,3
